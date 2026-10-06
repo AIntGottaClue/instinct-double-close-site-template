@@ -1,0 +1,613 @@
+{
+  "site": {
+    "brand": "{Biz Name}",
+    "domain": "{metro-domain.com}",
+    "niche": "wholesale double close transactional funding",
+    "state": "{State}",
+    "region": "{ST}",
+    "ga4MeasurementId": "",
+    "airchattyTrackingId": "{tracker id}",
+    "trustBar": [
+      "{Trust item 1, e.g. funding limit}",
+      "{Trust item 2, e.g. fee floor}",
+      "{Trust item 3, e.g. speed}",
+      "{Trust item 4}"
+    ],
+    "fees": [
+      {
+        "label": "Up to $500K",
+        "detail": "1% ($1,000 minimum)"
+      },
+      {
+        "label": "$500K to $1M",
+        "detail": "1.25%"
+      },
+      {
+        "label": "$1M to $1.5M",
+        "detail": "1.50%"
+      },
+      {
+        "label": "Additional days",
+        "detail": "0.2% per day"
+      },
+      {
+        "label": "Two title or closing companies",
+        "detail": "1.75%"
+      },
+      {
+        "label": "Funding over $1M",
+        "detail": "Longer due diligence"
+      },
+      {
+        "label": "Morby Method",
+        "detail": "Fees paid upfront via Zelle or wire"
+      },
+      {
+        "label": "Additional paperwork or special terms",
+        "detail": "1.75% or a per-document fee at our team's discretion"
+      }
+    ],
+    "serviceType": "{Main Service}",
+    "serviceDescription": "{One schema.org sentence: what {Biz Name} offers across {Metro}, {State}.}",
+    "metroName": "metro {City}",
+    "metroTitle": "Metro {City}",
+    "formName": "{Biz-Name-Form}",
+    "footerTagline": "{One sentence: what {Biz Name} offers across {Metro}.}",
+    "guideLinks": [
+      {
+        "path": "/how-double-closing-works-in-georgia/",
+        "label": "How Double Closing Works in {State}"
+      },
+      {
+        "path": "/double-close-vs-assignment/",
+        "label": "Double Close vs Assignment"
+      },
+      {
+        "path": "/transactional-funding-fees/",
+        "label": "Transactional Funding Fees"
+      }
+    ],
+    "ui": {
+      "howItWorksIntroHome": "{2-3 sentences: the funding process, with an inline link to the how-it-works guide.}",
+      "howItWorksIntroCity": "{1-2 sentences: how closings run in {State}, with inline guide links.}",
+      "serviceAreasTitle": "Service Areas Across Metro {City}",
+      "serviceAreasIntro": "{1-2 sentences introducing the metro service-area grid.}",
+      "legalLocation": "{Metro code}",
+      "legalCityName": "metro {City}"
+    },
+    "nicheTitle": "{Main Service}"
+  },
+  "home": {
+    "formName": "{Biz-Name-Form}",
+    "title": "{Homepage title tag | {Biz Name}}",
+    "description": "{Homepage meta description}",
+    "h1Bottom": "Across Metro {City}",
+    "hero": "{4-6 sentences of genuinely local hero copy for {Metro}: real counties, real housing stock, how the funding process runs. No metro-name swap.}",
+    "localNoteTitle": "{Local note heading, e.g. how closings work in {Metro}}",
+    "localNote": "{2-3 sentences of researched local closing-practice context for {State}, with the confirm-with-closing-team caveat.}",
+    "whyHeading": "{Why section heading}",
+    "why": [
+      "{Why paragraph 1: the metro is not one market}",
+      "{Why paragraph 2: how the funding works}",
+      "{Why paragraph 3: the fee promise}"
+    ],
+    "steps": [
+      {
+        "title": "{Step 1}",
+        "text": "{One or two sentences}"
+      },
+      {
+        "title": "{Step 2}",
+        "text": "{One or two sentences}"
+      },
+      {
+        "title": "{Step 3}",
+        "text": "{One or two sentences}"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "{Homepage FAQ 1: coverage area?}",
+        "a": "{Answer}"
+      },
+      {
+        "q": "{FAQ 2: what is a double closing?}",
+        "a": "{Answer}"
+      },
+      {
+        "q": "{FAQ 3: double close vs assignment?}",
+        "a": "{Answer}"
+      },
+      {
+        "q": "{FAQ 4: how fast?}",
+        "a": "{Answer}"
+      },
+      {
+        "q": "{FAQ 5: cost?}",
+        "a": "{Answer}"
+      },
+      {
+        "q": "{FAQ 6: EMD / Morby?}",
+        "a": "{Answer}"
+      },
+      {
+        "q": "{FAQ 7: what to submit?}",
+        "a": "{Answer}"
+      }
+    ]
+  },
+  "cities": [
+    {
+      "slug": "city-one",
+      "name": "{City One}",
+      "county": "{County One}",
+      "formName": "{Biz-Name-Form}",
+      "title": "{Title tag | {Biz Name}}",
+      "description": "{Meta description}",
+      "h1Bottom": "in {City}",
+      "hero": "{4-6 sentences genuinely about this city: housing stock, areas, how the process runs here. No city-name swap.}",
+      "localNoteTitle": "{Local closing-practice heading}",
+      "localNote": "{2-3 researched sentences for {State}}",
+      "whyHeading": "{Why heading}",
+      "why": [
+        "{Why paragraph 1}",
+        "{Why paragraph 2}",
+        "{Why paragraph 3}"
+      ],
+      "steps": [
+        {
+          "title": "{Step 1}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 2}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 3}",
+          "text": "{Text}"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        }
+      ],
+      "nearby": [
+        "city-two"
+      ],
+      "blurb": "{One sentence card blurb}"
+    },
+    {
+      "slug": "city-two",
+      "name": "{City Two}",
+      "county": "{County One}",
+      "formName": "{Biz-Name-Form}",
+      "title": "{Title tag | {Biz Name}}",
+      "description": "{Meta description}",
+      "h1Bottom": "in {City}",
+      "hero": "{4-6 sentences genuinely about this city: housing stock, areas, how the process runs here. No city-name swap.}",
+      "localNoteTitle": "{Local closing-practice heading}",
+      "localNote": "{2-3 researched sentences for {State}}",
+      "whyHeading": "{Why heading}",
+      "why": [
+        "{Why paragraph 1}",
+        "{Why paragraph 2}",
+        "{Why paragraph 3}"
+      ],
+      "steps": [
+        {
+          "title": "{Step 1}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 2}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 3}",
+          "text": "{Text}"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        }
+      ],
+      "nearby": [
+        "city-one"
+      ],
+      "blurb": "{One sentence card blurb}"
+    },
+    {
+      "slug": "city-three",
+      "name": "{City Three}",
+      "county": "{County Two}",
+      "formName": "{Biz-Name-Form}",
+      "title": "{Title tag | {Biz Name}}",
+      "description": "{Meta description}",
+      "h1Bottom": "in {City}",
+      "hero": "{4-6 sentences genuinely about this city: housing stock, areas, how the process runs here. No city-name swap.}",
+      "localNoteTitle": "{Local closing-practice heading}",
+      "localNote": "{2-3 researched sentences for {State}}",
+      "whyHeading": "{Why heading}",
+      "why": [
+        "{Why paragraph 1}",
+        "{Why paragraph 2}",
+        "{Why paragraph 3}"
+      ],
+      "steps": [
+        {
+          "title": "{Step 1}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 2}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 3}",
+          "text": "{Text}"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        }
+      ],
+      "nearby": [],
+      "blurb": "{One sentence card blurb}"
+    },
+    {
+      "slug": "city-four",
+      "name": "{City Four}",
+      "county": "{County Two}",
+      "formName": "{Biz-Name-Form}",
+      "title": "{Title tag | {Biz Name}}",
+      "description": "{Meta description}",
+      "h1Bottom": "in {City}",
+      "hero": "{4-6 sentences genuinely about this city: housing stock, areas, how the process runs here. No city-name swap.}",
+      "localNoteTitle": "{Local closing-practice heading}",
+      "localNote": "{2-3 researched sentences for {State}}",
+      "whyHeading": "{Why heading}",
+      "why": [
+        "{Why paragraph 1}",
+        "{Why paragraph 2}",
+        "{Why paragraph 3}"
+      ],
+      "steps": [
+        {
+          "title": "{Step 1}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 2}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 3}",
+          "text": "{Text}"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        }
+      ],
+      "nearby": [],
+      "blurb": "{One sentence card blurb}"
+    },
+    {
+      "slug": "city-five",
+      "name": "{City Five}",
+      "county": "{County Three}",
+      "formName": "{Biz-Name-Form}",
+      "title": "{Title tag | {Biz Name}}",
+      "description": "{Meta description}",
+      "h1Bottom": "in {City}",
+      "hero": "{4-6 sentences genuinely about this city: housing stock, areas, how the process runs here. No city-name swap.}",
+      "localNoteTitle": "{Local closing-practice heading}",
+      "localNote": "{2-3 researched sentences for {State}}",
+      "whyHeading": "{Why heading}",
+      "why": [
+        "{Why paragraph 1}",
+        "{Why paragraph 2}",
+        "{Why paragraph 3}"
+      ],
+      "steps": [
+        {
+          "title": "{Step 1}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 2}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 3}",
+          "text": "{Text}"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        }
+      ],
+      "nearby": [],
+      "blurb": "{One sentence card blurb}"
+    },
+    {
+      "slug": "city-six",
+      "name": "{City Six}",
+      "county": "{County Three}",
+      "formName": "{Biz-Name-Form}",
+      "title": "{Title tag | {Biz Name}}",
+      "description": "{Meta description}",
+      "h1Bottom": "in {City}",
+      "hero": "{4-6 sentences genuinely about this city: housing stock, areas, how the process runs here. No city-name swap.}",
+      "localNoteTitle": "{Local closing-practice heading}",
+      "localNote": "{2-3 researched sentences for {State}}",
+      "whyHeading": "{Why heading}",
+      "why": [
+        "{Why paragraph 1}",
+        "{Why paragraph 2}",
+        "{Why paragraph 3}"
+      ],
+      "steps": [
+        {
+          "title": "{Step 1}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 2}",
+          "text": "{Text}"
+        },
+        {
+          "title": "{Step 3}",
+          "text": "{Text}"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{FAQ}",
+          "a": "{Answer}"
+        }
+      ],
+      "nearby": [],
+      "blurb": "{One sentence card blurb}"
+    }
+  ],
+  "pages": {
+    "howItWorks": {
+      "path": "/how-double-closing-works-in-georgia/",
+      "title": "How Double Closing Works in {State}",
+      "description": "{Guide meta description}",
+      "h1": "How Double Closing Works in {State}",
+      "schemaName": "How Double Closing Works in {State}",
+      "schemaDescription": "{Guide meta description}",
+      "faqs": [
+        {
+          "q": "{Guide FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Guide FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Guide FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Guide FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Guide FAQ}",
+          "a": "{Answer}"
+        }
+      ]
+    },
+    "vsAssignment": {
+      "path": "/double-close-vs-assignment/",
+      "title": "Double Close vs Assignment: Which Fits Your Deal",
+      "description": "{Guide meta description}",
+      "h1": "Double Close vs Assignment",
+      "schemaName": "Double Close vs Assignment",
+      "schemaDescription": "{Guide meta description}",
+      "faqs": [
+        {
+          "q": "{Guide FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Guide FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Guide FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Guide FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Guide FAQ}",
+          "a": "{Answer}"
+        }
+      ]
+    },
+    "feesPage": {
+      "path": "/transactional-funding-fees/",
+      "title": "Transactional Funding Fees: Schedule and Examples",
+      "description": "{Fees page meta description}",
+      "h1": "Transactional Funding Fees",
+      "schemaName": "Transactional Funding Fees",
+      "schemaDescription": "{Fees page meta description}",
+      "faqs": [
+        {
+          "q": "{Fees FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Fees FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Fees FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Fees FAQ}",
+          "a": "{Answer}"
+        },
+        {
+          "q": "{Fees FAQ}",
+          "a": "{Answer}"
+        }
+      ]
+    },
+    "privacy": {
+      "path": "/privacy/",
+      "title": "Privacy Policy",
+      "description": "{Privacy page meta description}",
+      "h1": "Privacy Policy",
+      "intro": "How we handle information sent through this website.",
+      "location": "Privacy"
+    },
+    "terms": {
+      "path": "/terms/",
+      "title": "Terms of Service",
+      "description": "{Terms page meta description}",
+      "h1": "Terms of Service",
+      "intro": "Information about using this website and submitting a funding request.",
+      "location": "Terms"
+    }
+  }
+}
