@@ -1,0 +1,6 @@
+---
+import { u } from '../lib/utils';
+import { brand, cities, site } from '../data/city';
+---
+<footer class="site-footer"><div class="container site-footer__inner"><div><p class="site-footer__heading">{brand}</p><p>{site.footerTagline}</p></div><nav class="site-footer__nav" aria-label="Footer"><a href={u("/#how-it-works")}>How It Works</a><a href={u("/#why-us")}>Why Us</a><a href={u("/#funding-fees")}>Funding Fees</a><a href={u("/#faq")}>FAQ</a></nav><nav class="site-footer__nav" aria-label="Service areas"><p class="site-footer__heading">Service Areas</p><div class="site-footer__areas">{cities.map(c=><a href={u(`/${c.slug}/`)}>{c.name}</a>)}</div></nav><nav class="site-footer__nav" aria-label="Guides"><p class="site-footer__heading">Guides</p>{site.guideLinks.map(g => <a href={u(g.path)}>{g.label}</a>)}</nav><nav class="site-footer__nav" aria-label="Legal"><p class="site-footer__heading">Legal</p><a href={u("/privacy/")}>Privacy Policy</a><a href={u("/terms/")}>Terms of Service</a></nav></div><div class="container site-footer__legal"><p>© {new Date().getFullYear()} {brand}. All rights reserved.</p><p>Funding is subject to review and approval. Information on this site is general and is not legal, tax, or financial advice.</p></div></footer>
+

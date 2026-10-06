@@ -1,0 +1,2412 @@
+{
+  "site": {
+    "brand": "Atlanta Wholesale Double Close",
+    "domain": "atlanta.wholesaledoubleclose.click",
+    "niche": "wholesale double close transactional funding",
+    "state": "Georgia",
+    "region": "GA",
+    "ga4MeasurementId": "G-CQ1FD6CK1Z",
+    "airchattyTrackingId": "tk_61d238e145314251999b74fdd5c953cf",
+    "trustBar": [
+      "Transactional funding up to $1.5M",
+      "Fees start at 1%",
+      "Funding in as little as 24 hours",
+      "Built for Georgia wholesalers"
+    ],
+    "fees": [
+      {
+        "label": "Up to $500K",
+        "detail": "1% ($1,000 minimum)"
+      },
+      {
+        "label": "$500K to $1M",
+        "detail": "1.25%"
+      },
+      {
+        "label": "$1M to $1.5M",
+        "detail": "1.50%"
+      },
+      {
+        "label": "Additional days",
+        "detail": "0.2% per day"
+      },
+      {
+        "label": "Two title or closing companies",
+        "detail": "1.75%"
+      },
+      {
+        "label": "Funding over $1M",
+        "detail": "Longer due diligence"
+      },
+      {
+        "label": "Morby Method",
+        "detail": "Fees paid upfront via Zelle or wire"
+      },
+      {
+        "label": "Additional paperwork or special terms",
+        "detail": "1.75% or a per-document fee at our team's discretion"
+      }
+    ],
+    "serviceType": "Wholesale double close transactional funding",
+    "serviceDescription": "Transactional double close funding for real estate wholesalers across the Atlanta metro area.",
+    "metroName": "metro Atlanta",
+    "metroTitle": "Metro Atlanta",
+    "formName": "Atlanta-Wholesale-Double-Close-Form",
+    "footerTagline": "Double-close funding for real estate wholesalers across metro Atlanta.",
+    "guideLinks": [
+      {
+        "path": "/how-double-closing-works-in-georgia/",
+        "label": "How Double Closing Works in Georgia"
+      },
+      {
+        "path": "/double-close-vs-assignment/",
+        "label": "Double Close vs Assignment"
+      },
+      {
+        "path": "/transactional-funding-fees/",
+        "label": "Transactional Funding Fees"
+      }
+    ],
+    "ui": {
+      "howItWorksIntroHome": "The process is the same everywhere we fund: submit your deal, we review the numbers with the closing attorney's office, and we fund your purchase side on closing day. The full sequence and the paperwork behind it are covered in <a href=\"/how-double-closing-works-in-georgia/\">how double closing works in Georgia</a>.",
+      "howItWorksIntroCity": "Both transactions typically run through a Georgia closing attorney's office. Read <a href=\"/how-double-closing-works-in-georgia/\">how double closing works in Georgia</a>, or see the <a href=\"/double-close-vs-assignment/\">double close vs assignment</a> comparison.",
+      "serviceAreasTitle": "Service Areas Across Metro Atlanta",
+      "serviceAreasIntro": "We fund double closings throughout the metro. Each service area page covers the local housing stock, the closing process, and how funding works in that city.",
+      "legalLocation": "ATL",
+      "legalCityName": "metro Atlanta",
+      "feesIntroSummary": "Fees start at 1% on funding up to $500K with a $1,000 minimum, step to 1.25% from $500K to $1M, and 1.50% from $1M to $1.5M. Additional days, a second closing company and special paperwork carry the extra fees listed in the schedule. The full schedule with worked examples is on the <a href=\"/transactional-funding-fees/\">transactional funding fees</a> page.",
+      "feesIntroFull": "Fees are flat and published so you can underwrite the funding cost into your offer before you tie up the property. The math behind each line is on the <a href=\"/transactional-funding-fees/\">transactional funding fees</a> page."
+    },
+    "nicheTitle": "Wholesale Double Close Funding"
+  },
+  "home": {
+    "formName": "Atlanta-Wholesale-Double-Close-Form",
+    "title": "Wholesale Double Close Funding in Atlanta, GA | Metro Transactional Funding",
+    "description": "Transactional double close funding for wholesalers across metro Atlanta: Fulton, DeKalb, Cobb, Gwinnett, Clayton, Douglas and Henry. Up to $1.5M, fees from 1%, as little as 24 hours.",
+    "h1Bottom": "Across Metro Atlanta",
+    "hero": "Atlanta Wholesale Double Close provides transactional funding for real estate wholesalers across the Atlanta metro area, from intown neighborhoods along the BeltLine to the suburbs of Cobb, Gwinnett, DeKalb, Fulton, Clayton, Douglas and Henry counties. A double closing lets you buy and resell a property on the same day without using your own cash and without putting your spread on a single assignment contract. We supply the funds for your purchase side, you resell to your end buyer, and both closings run through a Georgia closing attorney. Whether your deal is a craftsman bungalow near the BeltLine, a ranch home in Marietta or a subdivision property in Gwinnett, the process stays the same: submit your deal, we review the numbers, and funding can be ready in as little as 24 hours. Use the form to tell us about your next double closing anywhere in metro Atlanta.",
+    "localNoteTitle": "How double closings work in metro Atlanta",
+    "localNote": "Georgia is generally an attorney closing state, so both sides of a double closing typically run through a closing attorney's office rather than an escrow company. Metro Atlanta has a deep bench of closing offices that handle investor transactions, and the office your end buyer already uses can usually run both sides back to back. Confirm the exact sequence with the closing team on your deal.",
+    "whyHeading": "Why metro Atlanta wholesalers use us",
+    "why": [
+      "The Atlanta metro is not one market. An intown bungalow deal, a Sandy Springs teardown and a Henry County subdivision flip all have different buyers, different comps and different timelines. Our funding works the same way on all of them, so you can work the whole metro with one process.",
+      "We fund the purchase side of your transaction so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your wholesale spread stays between the two closing statements instead of on an assignment contract.",
+      "Our fee schedule is published on this page and stays flat across every city and county we fund. You can underwrite the funding cost into your offer before you ever tie up the property, and there are no surprise charges at the closing table."
+    ],
+    "steps": [
+      {
+        "title": "Submit your deal",
+        "text": "Send the property address, your contract price, the resale price, and the closing office handling the file. Deals anywhere in the metro fit the same form."
+      },
+      {
+        "title": "We review the numbers",
+        "text": "We verify the purchase, the resale, and the paperwork with the closing attorney's office. Questions get answered before closing day, not at the table."
+      },
+      {
+        "title": "We fund your purchase",
+        "text": "On closing day we wire the funds for your purchase side. Your resale closes right after, our funds and fee come out of the proceeds, and the spread is yours."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Which parts of metro Atlanta do you fund?",
+        "a": "We fund double closings across the core metro: the City of Atlanta and the surrounding counties including Fulton, DeKalb, Cobb, Gwinnett, Clayton, Douglas and Henry. Our service area pages cover the cities we work in most, but a deal anywhere in the metro can be submitted through the same form."
+      },
+      {
+        "q": "What is a double closing?",
+        "a": "A double closing is two back to back transactions on the same property on the same day. You buy the home from the seller, take title, and immediately resell it to your end buyer. Because you take title in between, your purchase price and resale price stay on separate closing statements instead of one assignment contract."
+      },
+      {
+        "q": "Why use a double closing instead of an assignment?",
+        "a": "Two common reasons. Some sellers, buyers or closing offices prefer not to see the wholesale fee on a single contract, and a double closing keeps the two prices separate. Some deals also cannot be assigned, like certain REO or estate sales, and a double closing is the way to still make them work."
+      },
+      {
+        "q": "How fast can funding be ready?",
+        "a": "Funding can be ready in as little as 24 hours once we have the deal details and the closing office information. Files with complete paperwork move fastest, so send everything you have when you submit the form."
+      },
+      {
+        "q": "What does double close funding cost?",
+        "a": "Fees follow the published schedule: 1% on deals up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, and 1.50% from $1M to $1.5M. Additional days cost 0.2% per day, and using two title or closing companies carries a 1.75% fee. The full schedule is on this page."
+      },
+      {
+        "q": "Do you fund earnest money deposits or Morby Method deals?",
+        "a": "Yes. EMD funding and Morby Method structures are both part of what we fund. Morby Method fees are paid upfront by Zelle or wire, as listed in the fee schedule."
+      },
+      {
+        "q": "What do you need from me to review a deal?",
+        "a": "The property address, your contract price, your expected resale price, your end buyer's status, and the closing office handling the file. The form on this page collects exactly that, and the closing team can confirm anything deal specific from there."
+      }
+    ]
+  },
+  "cities": [
+    {
+      "slug": "acworth",
+      "name": "Acworth",
+      "county": "Cobb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Acworth, GA | Transactional Funding",
+      "description": "Transactional double close funding for Acworth wholesalers. Same day funding for deals from historic downtown to the lakes. Fees from 1%.",
+      "h1Bottom": "in Acworth, Georgia",
+      "hero": "Acworth anchors the northwest corner of Cobb County, with a historic downtown along Main Street, cottages and bungalows near the lake, and decades of subdivisions stretching toward Lake Allatoona. That range gives wholesalers several kinds of deals: older homes near downtown that attract renovation buyers, dated subdivision homes with solid comps, and properties around Lake Acworth where buyers pay for the location. Atlanta Wholesale Double Close funds double closings across Acworth. We supply the money for your purchase side, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both sides close through a Georgia closing attorney. Send your Acworth deal through the form and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Acworth",
+      "localNote": "Acworth deals close through Georgia closing attorneys, typically in Cobb County. The closing office your end buyer already uses can usually run both transactions back to back. Confirm the exact sequence with the closing team on your file.",
+      "whyHeading": "Why Acworth wholesalers use us",
+      "why": [
+        "Acworth sits at the affordable end of Cobb County, which keeps the buyer pool deep. Renovation buyers work the older homes near downtown and the lake while flip buyers take the dated subdivisions, so the resale side of an Acworth deal rarely waits long.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "Most Acworth deals land in our 1% funding tier, which keeps costs predictable. The fee schedule on this page is flat and published, so you can underwrite the funding cost into your offer before you tie up the property."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Homes near downtown, properties by the lake, and subdivision deals all fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Acworth?",
+          "a": "Yes. We fund deals throughout Acworth, from the historic downtown along Main Street to the neighborhoods around Lake Acworth and the subdivisions stretching toward Lake Allatoona."
+        },
+        {
+          "q": "What Acworth properties make good double close deals?",
+          "a": "Older cottages and bungalows near downtown attract renovation buyers, and dated subdivision homes attract flip buyers working off nearby comps. Both resell quickly when the numbers are right, which is what the resale side of a double closing needs."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "stockbridge",
+        "stonecrest",
+        "forest-park"
+      ],
+      "blurb": "Northwest Cobb's lake town, with a historic downtown on Main Street and housing from older cottages to subdivisions near Lake Allatoona."
+    },
+    {
+      "slug": "kennesaw",
+      "name": "Kennesaw",
+      "county": "Cobb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Kennesaw, GA | Transactional Funding",
+      "description": "Transactional double close funding for Kennesaw wholesalers. Fund deals near Kennesaw Mountain, downtown, and KSU. Fees from 1%, as little as 24 hours.",
+      "h1Bottom": "in Kennesaw, Georgia",
+      "hero": "Kennesaw grew up around the railroad beneath Kennesaw Mountain, and today it mixes a historic downtown and the Southern Museum locomotive history with the campus energy of Kennesaw State University and miles of family subdivisions along I-75. For wholesalers, the opportunity is the steady stream of dated homes in established neighborhoods where resale demand stays strong because families keep moving in. Atlanta Wholesale Double Close funds double closings across Kennesaw. We provide the money for your purchase side, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Closings run through a Georgia closing attorney. Submit your Kennesaw deal through the form and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Kennesaw",
+      "localNote": "Kennesaw files close through Georgia closing attorneys in Cobb County. Homes near the university sometimes attract investor buyers planning rentals rather than flips, which can change the resale timeline, so it helps to confirm your buyer's plan early. The closing team on your file can confirm the sequence for both sides.",
+      "whyHeading": "Why Kennesaw wholesalers use us",
+      "why": [
+        "Kennesaw's family subdivisions produce a reliable flow of dated homes at accessible price points, and our 1% funding tier covers most of them. Predictable funding cost makes these volume deals easier to underwrite.",
+        "The buyer pool here includes both flippers and rental investors, which gives your resale side a backup when one buyer falls through. A double closing works the same either way: we fund the purchase, your buyer closes behind you.",
+        "Our fee schedule never changes by neighborhood, so a deal near Kennesaw Mountain costs the same to fund as a deal anywhere else in the metro."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Subdivision homes, downtown properties, and rentals near KSU all fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day, your resale closes right behind it, and our funds and fee come out of the proceeds."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Kennesaw?",
+          "a": "Yes. We fund deals throughout Kennesaw, including the neighborhoods around downtown, the areas near Kennesaw State University, and the subdivisions stretching toward Kennesaw Mountain and Acworth."
+        },
+        {
+          "q": "Do rental buyers work on the resale side of a double closing?",
+          "a": "Yes. Around the university, some end buyers plan to hold the property as a rental instead of flipping it. What matters for funding is that your buyer closes with cash or financing already arranged, since the resale side must fund the same day your purchase does."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours once we have the deal details and the closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "The published schedule applies: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, and 0.2% per day for additional days."
+        },
+        {
+          "q": "Can you fund Morby Method deals?",
+          "a": "Yes. Morby Method funding is available with fees paid upfront by Zelle or wire, and EMD funding is available as well."
+        }
+      ],
+      "nearby": [
+        "acworth",
+        "marietta",
+        "powder-springs"
+      ],
+      "blurb": "Railroad town under Kennesaw Mountain with KSU and family subdivisions along I-75. Steady flow of dated homes at accessible price points."
+    },
+    {
+      "slug": "mableton",
+      "name": "Mableton",
+      "county": "Cobb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Mableton, GA | Transactional Funding",
+      "description": "Transactional double close funding for Mableton wholesalers in Cobb County. Review local property details, plan both closings and see published fees from 1%.",
+      "h1Bottom": "in Mableton, Georgia",
+      "hero": "Mableton has established residential streets and newer housing across south Cobb. The young city includes long-established neighborhoods as well as newer development. The Historic Mable House and the nearby Silver Comet Trail give its residential areas recognizable local anchors. If you have a purchase contract and an end buyer, a double closing lets you purchase the property and resell it in a separate transaction without funding the purchase from your own cash. Atlanta Wholesale Double Close offers transactional funding for qualified Mableton deals up to $1.5M, with published fees starting at 1%. Share the address, both prices and closing information so the file can be reviewed; funding may be available in as little as 24 hours when the paperwork and timing allow.",
+      "localNoteTitle": "How double closings work in Mableton",
+      "localNote": "A Mableton double closing involves a purchase and a separate resale, typically coordinated through a Georgia closing attorney. Confirm the parcel\u2019s jurisdiction and applicable requirements with the closing team; the city was incorporated only in 2022. The closing team can confirm how the two transactions should be sequenced for the actual file.",
+      "whyHeading": "Why Mableton wholesalers consider double closing funding",
+      "why": [
+        "Mableton is not one uniform housing market, so the address and the condition of the particular house matter more than a broad south Cobb label. Knowing which property you have helps you find an end buyer who has reviewed the house and its immediate neighborhood before you set a closing date.",
+        "Mableton\u2019s 2022 incorporation can leave city names on older records out of step with current municipal boundaries. A closing attorney can check the exact parcel instead of inferring jurisdiction from a mailing label.",
+        "The Historic Mable House and the Silver Comet Trail are local anchors, not evidence of a property\u2019s condition or resale price. Evaluate the specific south Cobb street. Compare the published fee schedule with both sale prices before committing to the file."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the Mableton property address, purchase price, resale price and closing office details. Include the end buyer\u2019s status and anything unusual about the property or schedule."
+        },
+        {
+          "title": "Review the file",
+          "text": "We review the two transactions and proposed timing with the closing team. For Mableton, confirm the parcel\u2019s jurisdiction and applicable requirements with the closing team; the city was incorporated only in 2022."
+        },
+        {
+          "title": "Coordinate both closings",
+          "text": "If the file is approved, funding is provided for the purchase side and the resale follows according to the closing team\u2019s instructions. The team confirms the final settlement and disbursement details."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you consider double closings in Mableton?",
+          "a": "Yes, you can submit a Mableton property for review. We need the purchase and resale details plus the closing office information before confirming whether the deal and its timing work."
+        },
+        {
+          "q": "Does Mableton\u2019s recent incorporation affect a double closing?",
+          "a": "The city incorporated in 2022, but that does not by itself change the two-sale structure. Have the closing attorney verify the property\u2019s jurisdiction and any applicable local requirements."
+        },
+        {
+          "q": "What makes a Mableton property different from a generic Atlanta deal?",
+          "a": "The young city includes long-established neighborhoods as well as newer development. The Historic Mable House and the nearby Silver Comet Trail give its residential areas recognizable local anchors. Review the particular parcel, home type and intended buyer rather than assuming that every address in the city has the same resale conditions."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "It is a purchase from the seller followed by a separate sale to your end buyer. You take title between the two transactions, and the closing attorney can confirm how the file and proceeds should be handled."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding may be available in as little as 24 hours, depending on the file and closing team. Submit complete purchase, resale and end buyer information so the timing can be reviewed."
+        },
+        {
+          "q": "What does double close funding cost?",
+          "a": "The published schedule starts at 1% on transactions up to $500K, with a $1,000 minimum; it lists 1.25% from $500K to $1M and 1.50% from $1M to $1.5M. Check the additional-day and special-term fees in the schedule for your file."
+        }
+      ],
+      "nearby": [
+        "smyrna",
+        "powder-springs",
+        "atlanta"
+      ],
+      "summaryFees": true,
+      "scenario": {
+        "title": "A local checklist for Mableton deals",
+        "intro": "Mableton files tend to hinge on jurisdiction and property history rather than price. Run through this checklist before you set a closing date; the closing team can confirm anything specific to your parcel.",
+        "items": [
+          "Confirm the parcel's jurisdiction. Mableton incorporated in 2022, so older records may list the property as unincorporated Cobb County or under a mailing label that does not match current boundaries.",
+          "For an estate or probate property, confirm the seller's authority to sell and which estate documents the closing attorney will need before both transactions are scheduled.",
+          "Verify the end buyer has walked the specific street. Mableton neighborhoods vary block by block, and a buyer who knows the immediate area is less likely to retrade late.",
+          "Send both prices, the address and the closing office with your submission so the file review covers the jurisdiction question up front."
+        ],
+        "outro": "For the process behind both closings, see how double closing works in Georgia. The published fee schedule applies in Mableton the same as everywhere else we fund."
+      },
+      "blurb": "South Cobb neighborhoods around the Historic Mable House and Silver Comet Trail, in a city incorporated in 2022."
+    },
+    {
+      "slug": "marietta",
+      "name": "Marietta",
+      "county": "Cobb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Marietta, GA | Transactional Funding",
+      "description": "Transactional double close funding for Marietta and Cobb County wholesalers. Fund deals near the Square, East Cobb, and beyond. Fees from 1%.",
+      "h1Bottom": "in Marietta, Georgia",
+      "hero": "Marietta is the seat of Cobb County and one of the metro's most consistent wholesale markets. The historic Marietta Square anchors a core of older homes, postwar ranches fill the neighborhoods around it, and the subdivisions of East Cobb give renovation buyers deep resale comps. Aerospace and hospital employers keep housing demand steady at every price point. Atlanta Wholesale Double Close funds double closings across Marietta and greater Cobb County. We put up the money for your purchase, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both transactions close through a Georgia closing attorney. Submit your Marietta deal through the form and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Marietta",
+      "localNote": "Marietta files typically close through Georgia closing attorneys in Cobb County. The area has an active investor community, so experienced closing offices here know the double closing sequence well. The closing team on your deal can confirm scheduling, especially when the same office handles both sides back to back.",
+      "whyHeading": "Why Marietta wholesalers use us",
+      "why": [
+        "Marietta offers deal volume that few suburbs match. Older homes near the Square, ranches along the corridors toward Smyrna and Kennesaw, and East Cobb subdivisions all produce wholesale deals, and our funding works the same way on each of them.",
+        "Investor activity in Cobb County means your end buyer has usually closed a double closing before. When both sides know the sequence, the only variable left is whether the purchase funds show up on time. That is the part we handle.",
+        "Our fee schedule is flat and published, so you can underwrite the funding cost into your offer before you ever tie up the property."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Deals anywhere in Marietta or greater Cobb County fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We confirm the purchase, the resale, and the paperwork with the closing attorney's office, and we flag anything that could delay either side."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire the purchase funds on closing day, your resale closes right behind ours, and our funds and fee come out of the proceeds."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Marietta?",
+          "a": "Yes. We fund deals throughout Marietta, including the neighborhoods around the historic Square, the postwar ranch areas, and the East Cobb subdivisions, plus the rest of Cobb County."
+        },
+        {
+          "q": "What Marietta properties work best for a double closing?",
+          "a": "The postwar ranch homes are the workhorse of this market: they attract rehab buyers, comps are easy to read, and resale demand is steady. Older homes near the Square and dated subdivision properties in East Cobb also close regularly as double closings."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two back to back transactions on the same property. You buy from the seller, take title, and resell to your end buyer the same day. Your spread lives between the two closing statements rather than on one assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours once we have the deal details and the closing office information. Files with complete paperwork move the fastest."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "The published schedule applies everywhere we fund: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, and 0.2% per day for additional days."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals in Cobb County?",
+          "a": "Yes. Earnest money deposits and Morby Method structures are available in Marietta like everywhere else we fund. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "smyrna",
+        "kennesaw",
+        "powder-springs"
+      ],
+      "blurb": "Cobb County seat anchored by the historic Square. Older homes, postwar ranches, and East Cobb subdivisions make it one of the metro's most consistent wholesale markets."
+    },
+    {
+      "slug": "powder-springs",
+      "name": "Powder Springs",
+      "county": "Cobb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Powder Springs, GA | Transactional Funding",
+      "description": "Double close funding for Powder Springs wholesalers. Same day transactional funding for ranch homes and subdivisions in southwest Cobb. Fees from 1%.",
+      "h1Bottom": "in Powder Springs, Georgia",
+      "hero": "Powder Springs covers southwest Cobb County, where ranch homes from the 1960s through the 1980s sit on larger lots along the old highways and subdivisions from the 1990s and 2000s fill in around them. The Silver Comet Trail runs through the middle of the city, and the small downtown keeps a small town feel that buyers like. Price points here run below east Cobb, which makes Powder Springs a working wholesale market: renovation buyers and landlords both hunt these deals. Atlanta Wholesale Double Close funds double closings across Powder Springs. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Powder Springs",
+      "localNote": "Powder Springs files close through Georgia closing attorneys, typically in Cobb County. The closing office your end buyer already uses can usually handle both sides back to back. Confirm the sequence with the closing team on your deal.",
+      "whyHeading": "Why Powder Springs wholesalers use us",
+      "why": [
+        "Southwest Cobb price points keep Powder Springs deals accessible to a wide buyer pool. A dated ranch on a big lot or a subdivision home that needs updating draws renovation buyers, landlords, and first time buyers alike, so the resale side of your double closing has options.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "Most Powder Springs deals fall into our 1% funding tier. The schedule is published on this page, so you can underwrite the funding cost into your offer before you tie up the property."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Ranch homes on the old corridors and subdivision properties near the Silver Comet Trail both fit."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Powder Springs?",
+          "a": "Yes. We fund deals throughout Powder Springs and southwest Cobb, from the ranch homes along the older corridors to the subdivisions around the Silver Comet Trail and downtown."
+        },
+        {
+          "q": "What Powder Springs properties make good double close deals?",
+          "a": "Postwar and 1970s ranch homes on larger lots are the classic Powder Springs wholesale deal, and dated subdivision homes move well too. Both attract renovation buyers and landlords, which keeps the resale side easy to schedule."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "mableton",
+        "douglasville",
+        "marietta"
+      ],
+      "blurb": "Southwest Cobb's working wholesale market: postwar ranches on big lots, Silver Comet Trail subdivisions, and prices below east Cobb."
+    },
+    {
+      "slug": "smyrna",
+      "name": "Smyrna",
+      "county": "Cobb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Smyrna, GA | Transactional Funding",
+      "description": "Double close funding for Smyrna wholesalers. Same day transactional funding near the Market Village and Truist Park area. Fees from 1%.",
+      "h1Bottom": "in Smyrna, Georgia",
+      "hero": "Smyrna sits just outside I-285 in Cobb County, minutes from Truist Park and The Battery, with the rebuilt Market Village at its center. The city's core is a grid of 1950s through 1970s ranch homes, and those ranches are some of the most actively renovated properties in the metro because buyers want the location and the lots. Atlanta Wholesale Double Close funds double closings across Smyrna. We supply the capital for your purchase side, you resell to your end buyer the same day, and the spread stays off a single assignment contract. Both sides run through a Georgia closing attorney. Submit your Smyrna deal through the form and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Smyrna",
+      "localNote": "Smyrna deals close through Georgia closing attorneys, generally in Cobb County. Because the ranch home market here turns over quickly, resale buyers often want short closing timelines, so it helps to line up the closing office early. The closing team on your file can confirm scheduling for both sides.",
+      "whyHeading": "Why Smyrna wholesalers use us",
+      "why": [
+        "Smyrna ranches sell fast once renovated, so end buyers compete for dated inventory and expect quick closings. A funded double closing lets you say yes to a seller's timeline without waiting on your own capital.",
+        "Price points here sit in a range where our 1% tier covers many deals, which keeps your funding cost predictable on exactly the deals where margins are tightest.",
+        "A double closing keeps your purchase price and resale price on separate statements. In a close knit investor market like Smyrna, that privacy keeps your margins from becoming neighborhood gossip."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Ranch homes near the Market Village and properties toward the Cumberland area both fit."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office so both sides are ready for a quick closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day, your resale closes immediately after, and our funds and fee come out of the proceeds."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Smyrna?",
+          "a": "Yes. We fund deals across Smyrna, from the ranch neighborhoods around the Market Village to the areas near Truist Park and The Battery and the corridors toward Vinings and Mableton."
+        },
+        {
+          "q": "Why do so many Smyrna deals use double closings?",
+          "a": "The 1950s to 1970s ranch homes that define central Smyrna attract renovation buyers who pay cash and close quickly. Sellers in this market often respond to speed, and a funded double closing lets you offer a fast, clean purchase while keeping your spread private."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You purchase from the seller, take title briefly, and resell to your end buyer. The two closing statements stay separate, so your wholesale fee is not visible to either side."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we receive the deal details and closing office information. Complete paperwork makes the fast timeline possible."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with the listed fees for additional days and special situations."
+        },
+        {
+          "q": "Do you fund earnest money deposits?",
+          "a": "Yes. EMD funding is available, and Morby Method structures are funded with fees paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "marietta",
+        "mableton",
+        "atlanta"
+      ],
+      "blurb": "Just outside the Perimeter near Truist Park and The Battery. The 1950s to 1970s ranch grid around the Market Village is some of the metro's most renovated housing."
+    },
+    {
+      "slug": "forest-park",
+      "name": "Forest Park",
+      "county": "Clayton",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Forest Park, GA | Transactional Funding",
+      "description": "Double close funding for Forest Park wholesalers. Same day transactional funding for Clayton County deals near I-75 and the airport. Fees from 1%.",
+      "h1Bottom": "in Forest Park, Georgia",
+      "hero": "Forest Park sits in Clayton County just south of Atlanta, boxed in by I-75, I-285, and the airport. The housing stock is exactly what investors look for: blocks of 1950s and 1960s brick ranches on level lots, many of them dated or tired and priced at the metro's entry level. Renovation buyers and landlords work this market constantly because the location rents and resells to people who work at the airport, the Atlanta State Farmers Market, and the warehouses along the interstate. Atlanta Wholesale Double Close funds double closings across Forest Park and Clayton County. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Forest Park",
+      "localNote": "Forest Park deals close through Georgia closing attorneys, typically in Clayton County. The closing office your end buyer already uses can usually run both transactions back to back. Confirm the sequence with the closing team on your file.",
+      "whyHeading": "Why Forest Park wholesalers use us",
+      "why": [
+        "Forest Park is a volume market. The brick ranches here move at price points where landlords and flippers can both make the numbers work, and the airport and interstate access keep end demand steady. When your resale buyer is already waiting, the purchase side cannot be the holdup.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "Nearly every Forest Park deal falls into our 1% funding tier with the $1,000 minimum, which keeps costs predictable on the volume deals this market produces."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Brick ranches near the farmers market and homes across Clayton County both fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Forest Park?",
+          "a": "Yes. We fund deals throughout Forest Park and the rest of Clayton County. The 1950s and 1960s brick ranches that fill the area are the kind of property end buyers pursue here."
+        },
+        {
+          "q": "What Forest Park properties make good double close deals?",
+          "a": "Dated brick ranches are the standard Forest Park wholesale deal. They attract landlords and renovation buyers because entry prices are low and rental demand from the airport and interstate corridors stays strong."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "college-park",
+        "east-point",
+        "stockbridge"
+      ],
+      "blurb": "Clayton County's investor workhorse between I-75, I-285 and the airport. Blocks of 1950s and 1960s brick ranches at entry prices."
+    },
+    {
+      "slug": "brookhaven",
+      "name": "Brookhaven",
+      "county": "DeKalb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Brookhaven, GA | Transactional Funding",
+      "description": "Double close funding for Brookhaven wholesalers. Same day funding for deals from Ashford Park to Buford Highway. Fees from 1%.",
+      "h1Bottom": "in Brookhaven, Georgia",
+      "hero": "Brookhaven sits just inside the perimeter, and its oldest neighborhoods tell the wholesale story: Ashford Park, Drew Valley, and Skyland Park were built in the 1940s and 1950s as small homes on large lots, and for years buyers have been renovating them or replacing them with much larger houses. That infill wave, plus the older corridors along Buford Highway and the village district around Dresden Drive, makes Brookhaven one of the most active investor markets inside I-285. Atlanta Wholesale Double Close funds double closings across Brookhaven. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Brookhaven",
+      "localNote": "Brookhaven deals close through Georgia closing attorneys, typically in DeKalb County. Because the lots drive the value here, end buyers often move fast once a property is tied up. The closing office your buyer already uses can usually run both sides back to back. Confirm the sequence with the closing team on your file.",
+      "whyHeading": "Why Brookhaven wholesalers use us",
+      "why": [
+        "Brookhaven's small postwar homes on big lots attract builders and renovation buyers who pay cash and close quickly. That is exactly what the resale side of a double closing needs, and it is why Brookhaven deals move when the price is right.",
+        "Price points here run well above the metro average, so the funding fee matters. Our schedule is published and flat, which means a Brookhaven deal costs exactly what the schedule says and nothing more.",
+        "We fund up to $1.5M, which covers the large majority of wholesale deals in this market. Funding over $1M gets a longer due diligence window, so submit larger Brookhaven files as early as you can."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Include your end buyer's status, because Brookhaven deals often involve builders on tight timelines."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office. Deals over $1M get extra due diligence time, so early submission helps."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Brookhaven?",
+          "a": "Yes. We fund deals throughout Brookhaven, from the postwar neighborhoods of Ashford Park and Drew Valley to the corridors along Buford Highway and the village district near Dresden Drive."
+        },
+        {
+          "q": "What Brookhaven properties make good double close deals?",
+          "a": "The 1940s and 1950s homes on large lots are the classic Brookhaven deal. Renovation buyers restore them and builders replace them, and both groups pay cash and close fast, which keeps the resale side of a double closing simple."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information. Larger files benefit from earlier submission because the extra due diligence takes time."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "chamblee",
+        "dunwoody",
+        "sandy-springs"
+      ],
+      "blurb": "Inside the perimeter, where 1940s and 1950s cottages on big lots in Ashford Park and Drew Valley feed a constant infill and renovation market."
+    },
+    {
+      "slug": "chamblee",
+      "name": "Chamblee",
+      "county": "DeKalb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Chamblee, GA | Transactional Funding",
+      "description": "Transactional double close funding for Chamblee wholesalers in DeKalb County. Review local property details, plan both closings and see published fees from 1%.",
+      "h1Bottom": "in Chamblee, Georgia",
+      "hero": "Chamblee has older residential streets near downtown and denser mixed-use areas along the major corridors. Chamblee grew around the railroad, then industrial jobs, and later redeveloped parts of its downtown and Buford Highway corridor. That layered history creates a different property context from one block to the next. If you have a purchase contract and an end buyer, a double closing lets you purchase the property and resell it in a separate transaction without funding the purchase from your own cash. Atlanta Wholesale Double Close offers transactional funding for qualified Chamblee deals up to $1.5M, with published fees starting at 1%. Share the address, both prices and closing information so the file can be reviewed; funding may be available in as little as 24 hours when the paperwork and timing allow.",
+      "localNoteTitle": "How double closings work in Chamblee",
+      "localNote": "A Chamblee double closing involves a purchase and a separate resale, typically coordinated through a Georgia closing attorney. Confirm whether the property is detached housing or part of a condominium or townhome association, and obtain relevant documents. The closing team can confirm how the two transactions should be sequenced for the actual file.",
+      "whyHeading": "Why Chamblee wholesalers consider double closing funding",
+      "why": [
+        "A detached house near the old rail town and a unit in a newer mixed-use district need different buyer checks. Knowing which property you have helps you find a buyer who understands the particular street and property type before you set a closing date.",
+        "Chamblee\u2019s older rail-town blocks and newer mixed-use corridor homes can involve different ownership structures. For an attached unit, the closing team should have its association paperwork before the two sales are scheduled.",
+        "The railway and industrial past still shape Chamblee\u2019s street pattern, but the relevant deal checks depend on whether the asset is a detached house or attached unit. Compare the published fee schedule with both sale prices before committing to the file."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the Chamblee property address, purchase price, resale price and closing office details. Include the end buyer\u2019s status and anything unusual about the property or schedule."
+        },
+        {
+          "title": "Review the file",
+          "text": "We review the two transactions and proposed timing with the closing team. For Chamblee, confirm whether the property is detached housing or part of a condominium or townhome association, and obtain relevant documents."
+        },
+        {
+          "title": "Coordinate both closings",
+          "text": "If the file is approved, funding is provided for the purchase side and the resale follows according to the closing team\u2019s instructions. The team confirms the final settlement and disbursement details."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you consider double closings in Chamblee?",
+          "a": "Yes, you can submit a Chamblee property for review. We need the purchase and resale details plus the closing office information before confirming whether the deal and its timing work."
+        },
+        {
+          "q": "Can a Chamblee condominium be double closed?",
+          "a": "Possibly, if the purchase and resale documents work and the end buyer is ready. Ask the closing team to check association documents, transfer rules and the timing for the specific unit."
+        },
+        {
+          "q": "What makes a Chamblee property different from a generic Atlanta deal?",
+          "a": "Chamblee grew around the railroad, then industrial jobs, and later redeveloped parts of its downtown and Buford Highway corridor. That layered history creates a different property context from one block to the next. Review the particular parcel, home type and intended buyer rather than assuming that every address in the city has the same resale conditions."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "It is a purchase from the seller followed by a separate sale to your end buyer. You take title between the two transactions, and the closing attorney can confirm how the file and proceeds should be handled."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding may be available in as little as 24 hours, depending on the file and closing team. Submit complete purchase, resale and end buyer information so the timing can be reviewed."
+        },
+        {
+          "q": "What does double close funding cost?",
+          "a": "The published schedule starts at 1% on transactions up to $500K, with a $1,000 minimum; it lists 1.25% from $500K to $1M and 1.50% from $1M to $1.5M. Check the additional-day and special-term fees in the schedule for your file."
+        }
+      ],
+      "nearby": [
+        "brookhaven",
+        "dunwoody",
+        "tucker"
+      ],
+      "summaryFees": true,
+      "scenario": {
+        "title": "A local checklist for Chamblee deals",
+        "intro": "Chamblee deals split between detached houses near the old rail town and attached units in newer mixed-use districts. This checklist covers the checks that matter before you schedule a double closing here.",
+        "items": [
+          "Confirm whether the property is a detached house or part of a condominium or townhome association. The paperwork and timeline differ between the two.",
+          "For an attached unit, request the association documents early. Associations can have their own transfer rules, fees or approval steps, and the closing attorney will want them in hand before both sales are scheduled.",
+          "Check whether the association limits rentals or resales, since that affects your end buyer's plans and their willingness to close quickly.",
+          "Send the association status, both prices and the closing office with your submission so the review can flag document gaps early."
+        ],
+        "outro": "The back to back sequence itself is covered in how double closing works in Georgia, and the published fee schedule applies in Chamblee the same as everywhere else we fund."
+      },
+      "blurb": "Rail-town residential streets and newer mixed-use blocks near downtown and Buford Highway."
+    },
+    {
+      "slug": "decatur",
+      "name": "Decatur",
+      "county": "DeKalb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Decatur, GA | Transactional Funding",
+      "description": "Double close funding for Decatur wholesalers. Same day transactional funding near the courthouse square and across DeKalb County. Fees from 1%.",
+      "h1Bottom": "in Decatur, Georgia",
+      "hero": "Decatur is the seat of DeKalb County, built around a courthouse square that has become one of the most walkable downtowns in the metro, with MARTA rail, restaurants, and festivals pulling steady foot traffic. The housing around it is heavy on 1920s craftsman bungalows and postwar cottages, and renovated examples command prices that keep rehab buyers hunting for dated inventory. Atlanta Wholesale Double Close funds double closings across Decatur and greater DeKalb County. We provide the capital for your purchase side, you resell to your end buyer the same day, and your spread never shows on an assignment contract. Both transactions close through a Georgia closing attorney. Submit your Decatur deal through the form and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Decatur",
+      "localNote": "Decatur deals close through Georgia closing attorneys, typically in DeKalb County. Older homes near the square sometimes carry historic district guidelines that shape what a renovation buyer can change, which matters to your buyer more than to the funding. The closing team on your file can confirm anything property specific.",
+      "whyHeading": "Why Decatur wholesalers use us",
+      "why": [
+        "Decatur's bungalow stock produces some of the strongest renovation margins inside the Perimeter, and end buyers compete for every dated listing. A funded double closing lets you lock a property up with confidence and close on the seller's timeline.",
+        "Price points near the square often run high enough that a visible assignment fee would sour a deal. A double closing keeps the purchase and resale on separate statements so neither side sees your full margin.",
+        "Our fee schedule is flat and published, and our funding limit of $1.5M covers the large majority of Decatur wholesale deals."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Bungalows near the square and homes across greater DeKalb both fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office so both sides close without surprises."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day, your resale closes immediately after, and our funds and fee come out of the proceeds."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Decatur?",
+          "a": "Yes. We fund deals throughout the City of Decatur and greater DeKalb County, from the bungalow neighborhoods around the courthouse square to the postwar areas farther out."
+        },
+        {
+          "q": "What Decatur properties make good double close deals?",
+          "a": "The craftsman bungalows and cottages near the square are the headline stock, and they attract buyers who renovate for the walkable downtown lifestyle. Dated homes in the surrounding DeKalb neighborhoods also work well because resale comps are strong and buyers are plentiful."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You purchase from the seller, take title in between, and resell to your end buyer. Your spread stays between the two closing statements instead of on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information. Complete paperwork is what makes the fast timeline possible."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Do you fund EMD and Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "atlanta",
+        "stone-mountain",
+        "brookhaven"
+      ],
+      "blurb": "DeKalb county seat with a walkable courthouse square and MARTA rail. Craftsman bungalows and postwar cottages command some of the strongest renovation margins ITP."
+    },
+    {
+      "slug": "dunwoody",
+      "name": "Dunwoody",
+      "county": "DeKalb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Dunwoody, GA | Transactional Funding",
+      "description": "Double close funding for Dunwoody wholesalers. Same day funding for ranch and split-level deals near Dunwoody Village. Fees from 1%.",
+      "h1Bottom": "in Dunwoody, Georgia",
+      "hero": "Dunwoody grew up in the 1960s and 1970s, and its neighborhoods still show it: brick ranches and split-levels in established subdivisions, gathered around Dunwoody Village, the shopping district with the Williamsburg look that has anchored the community since the 1970s. Those homes are dated now, and that is the opportunity. Renovation buyers and builders compete for them because the location next to Perimeter Center keeps resale demand deep. Atlanta Wholesale Double Close funds double closings across Dunwoody. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Dunwoody",
+      "localNote": "Dunwoody deals close through Georgia closing attorneys, typically in DeKalb County. Price points here often run above the metro average, so double closings are common: both sides usually prefer that the wholesale spread stays between the two closing statements. Confirm the sequence with the closing team on your file.",
+      "whyHeading": "Why Dunwoody wholesalers use us",
+      "why": [
+        "Dunwoody's 1960s and 1970s ranches and split-levels sit in subdivisions where renovated comps are well established. Your end buyer can underwrite the resale quickly, and we make sure the purchase side keeps pace with that timeline.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "We fund up to $1.5M, and the fee schedule on this page is published and flat. You can underwrite the funding cost into your offer before you tie up the property, even on the larger deals Dunwoody produces."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Include your end buyer's status on larger deals, since Dunwoody resales often involve builders."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office. Deals over $1M get extra due diligence time, so submit those early."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Dunwoody?",
+          "a": "Yes. We fund deals throughout Dunwoody, from the subdivisions around Dunwoody Village to the neighborhoods near Perimeter Center and the Georgetown area toward the Chamblee line."
+        },
+        {
+          "q": "What Dunwoody properties make good double close deals?",
+          "a": "Dated ranches and split-levels from the 1960s and 1970s are the standard Dunwoody wholesale deal. Renovation buyers update them against strong comps, and builders pursue the larger lots, so the resale side rarely waits."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information. Larger files benefit from earlier submission because the extra due diligence takes time."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "sandy-springs",
+        "brookhaven",
+        "peachtree-corners"
+      ],
+      "blurb": "Established 1960s and 1970s subdivisions around Dunwoody Village, next to Perimeter Center. Dated ranches and split-levels draw renovation buyers and builders."
+    },
+    {
+      "slug": "lithonia",
+      "name": "Lithonia",
+      "county": "DeKalb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Lithonia, GA | Transactional Funding",
+      "description": "Double close funding for Lithonia wholesalers. Same day transactional funding for east DeKalb subdivision deals. Fees from 1%.",
+      "h1Bottom": "in Lithonia, Georgia",
+      "hero": "Lithonia covers the east side of DeKalb County, where subdivisions built from the 1980s through the 2000s stretch toward Arabia Mountain. Prices here sit at the metro's entry level, and that makes Lithonia one of the highest volume wholesale markets in the Atlanta area. Landlords buy the steady rentals, renovation buyers take the dated homes, and sellers who need speed know wholesalers work these streets. Atlanta Wholesale Double Close funds double closings across Lithonia and east DeKalb. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Lithonia",
+      "localNote": "Lithonia deals close through Georgia closing attorneys, typically in DeKalb County. Volume markets like this one reward clean paperwork: the closing office your end buyer already uses can usually run both sides back to back. Confirm the sequence with the closing team on your file.",
+      "whyHeading": "Why Lithonia wholesalers use us",
+      "why": [
+        "Lithonia is a volume game, and volume games are won on repeatable process. When your buyer list already knows these subdivisions, the only thing between your contract and your spread is a clean purchase closing. We fund that side so the chain never breaks.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "Nearly every Lithonia deal falls into our 1% funding tier with the $1,000 minimum, so costs stay predictable when you are running several deals a month through the same neighborhoods."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Subdivision homes across east DeKalb all fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Lithonia?",
+          "a": "Yes. We fund deals throughout Lithonia and east DeKalb County, in the subdivisions built from the 1980s onward that make up most of the housing in the area."
+        },
+        {
+          "q": "What Lithonia properties make good double close deals?",
+          "a": "Dated subdivision homes at entry level prices are the standard Lithonia deal. Landlords take the clean ones for rentals and renovation buyers take the tired ones, so the resale side of a double closing is usually easy to schedule."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "stonecrest",
+        "stone-mountain",
+        "decatur"
+      ],
+      "blurb": "East DeKalb's high volume wholesale market. Entry level subdivisions from the 1980s through the 2000s, stretching toward Arabia Mountain."
+    },
+    {
+      "slug": "stone-mountain",
+      "name": "Stone Mountain",
+      "county": "DeKalb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Stone Mountain, GA | Transactional Funding",
+      "description": "Double close funding for Stone Mountain wholesalers. Same day funding for deals from the village to the subdivisions. Fees from 1%.",
+      "h1Bottom": "in Stone Mountain, Georgia",
+      "hero": "Stone Mountain is best known for the park and the granite dome, but wholesalers know it for the housing: postwar ranches near the historic village and mile after mile of 1960s through 1990s subdivisions at some of the most accessible price points inside the perimeter's orbit. Rental demand stays strong because the location sits between Decatur, Tucker, and the I-285 and US-78 corridors, and renovation buyers work the older homes steadily. Atlanta Wholesale Double Close funds double closings across Stone Mountain. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Stone Mountain",
+      "localNote": "Stone Mountain deals close through Georgia closing attorneys, typically in DeKalb County. The closing office your end buyer already uses can usually run both transactions back to back. Confirm the sequence with the closing team on your file.",
+      "whyHeading": "Why Stone Mountain wholesalers use us",
+      "why": [
+        "Stone Mountain works because the numbers work. Entry prices leave room for a wholesale spread, and the buyer pool of landlords and renovation buyers is deep enough that a well priced resale does not sit. We fund the purchase side so your timeline never depends on your own cash.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "Most Stone Mountain deals fall into our 1% funding tier with the $1,000 minimum. The schedule is published on this page, so you can underwrite the funding cost into your offer before you tie up the property."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Homes near the village and subdivision properties along US-78 both fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Stone Mountain?",
+          "a": "Yes. We fund deals throughout Stone Mountain, from the postwar homes near the historic village to the subdivisions along the US-78 corridor and around the park."
+        },
+        {
+          "q": "What Stone Mountain properties make good double close deals?",
+          "a": "Postwar ranches and dated subdivision homes are the standard Stone Mountain deal. They attract landlords and renovation buyers at price points that leave room for a spread, which keeps both sides of a double closing moving."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "lithonia",
+        "tucker",
+        "decatur"
+      ],
+      "blurb": "Postwar ranches near the historic village plus decades of affordable subdivisions along US-78, in the shadow of the park's granite dome."
+    },
+    {
+      "slug": "stonecrest",
+      "name": "Stonecrest",
+      "county": "DeKalb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Stonecrest, GA | Transactional Funding",
+      "description": "Transactional double close funding for Stonecrest wholesalers in DeKalb County. Review local property details, plan both closings and see published fees from 1%.",
+      "h1Bottom": "in Stonecrest, Georgia",
+      "hero": "Stonecrest has suburban neighborhoods near Panola Road and the green spaces around Arabia Mountain. Stonecrest spans residential streets, shopping corridors and protected green space. Arabia Mountain and the city\u2019s trail network make its setting different from DeKalb\u2019s denser inner suburbs. If you have a purchase contract and an end buyer, a double closing lets you purchase the property and resell it in a separate transaction without funding the purchase from your own cash. Atlanta Wholesale Double Close offers transactional funding for qualified Stonecrest deals up to $1.5M, with published fees starting at 1%. Share the address, both prices and closing information so the file can be reviewed; funding may be available in as little as 24 hours when the paperwork and timing allow.",
+      "localNoteTitle": "How double closings work in Stonecrest",
+      "localNote": "A Stonecrest double closing involves a purchase and a separate resale, typically coordinated through a Georgia closing attorney. Check the exact parcel and any land-use or environmental constraints before describing a property near Arabia Mountain as suitable for expansion. The closing team can confirm how the two transactions should be sequenced for the actual file.",
+      "whyHeading": "Why Stonecrest wholesalers consider double closing funding",
+      "why": [
+        "A house near the Arabia Mountain landscape and one near a busier Panola Road corridor may attract different end buyers. Knowing which property you have helps you find a buyer who understands the property\u2019s condition, parcel and location within Stonecrest before you set a closing date.",
+        "Stonecrest\u2019s Arabia Mountain surroundings put some homes near trails and conserved land, while Panola Road has a different built setting. Do not assume an expansion or change of use is possible based on nearby vacant space.",
+        "A Stonecrest property near Arabia Mountain may call for closer parcel review than its suburban appearance suggests; the precise restrictions must come from the actual record. Compare the published fee schedule with both sale prices before committing to the file."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the Stonecrest property address, purchase price, resale price and closing office details. Include the end buyer\u2019s status and anything unusual about the property or schedule."
+        },
+        {
+          "title": "Review the file",
+          "text": "We review the two transactions and proposed timing with the closing team. For Stonecrest, check the exact parcel and any land-use or environmental constraints before describing a property near Arabia Mountain as suitable for expansion."
+        },
+        {
+          "title": "Coordinate both closings",
+          "text": "If the file is approved, funding is provided for the purchase side and the resale follows according to the closing team\u2019s instructions. The team confirms the final settlement and disbursement details."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you consider double closings in Stonecrest?",
+          "a": "Yes, you can submit a Stonecrest property for review. We need the purchase and resale details plus the closing office information before confirming whether the deal and its timing work."
+        },
+        {
+          "q": "Do homes near Arabia Mountain need special review?",
+          "a": "Do not assume every nearby parcel has the same rules. The buyer and closing team can check the property record, zoning and any recorded restrictions before planning changes to a house or lot."
+        },
+        {
+          "q": "What makes a Stonecrest property different from a generic Atlanta deal?",
+          "a": "Stonecrest spans residential streets, shopping corridors and protected green space. Arabia Mountain and the city\u2019s trail network make its setting different from DeKalb\u2019s denser inner suburbs. Review the particular parcel, home type and intended buyer rather than assuming that every address in the city has the same resale conditions."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "It is a purchase from the seller followed by a separate sale to your end buyer. You take title between the two transactions, and the closing attorney can confirm how the file and proceeds should be handled."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding may be available in as little as 24 hours, depending on the file and closing team. Submit complete purchase, resale and end buyer information so the timing can be reviewed."
+        },
+        {
+          "q": "What does double close funding cost?",
+          "a": "The published schedule starts at 1% on transactions up to $500K, with a $1,000 minimum; it lists 1.25% from $500K to $1M and 1.50% from $1M to $1.5M. Check the additional-day and special-term fees in the schedule for your file."
+        }
+      ],
+      "nearby": [
+        "lithonia",
+        "stone-mountain",
+        "stockbridge"
+      ],
+      "blurb": "Residential areas near Panola Road and the Arabia Mountain landscape, with trails and parkland shaping the setting."
+    },
+    {
+      "slug": "tucker",
+      "name": "Tucker",
+      "county": "DeKalb",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Tucker, GA | Transactional Funding",
+      "description": "Double close funding for Tucker wholesalers. Same day funding for postwar ranch deals along Main Street and beyond. Fees from 1%.",
+      "h1Bottom": "in Tucker, Georgia",
+      "hero": "Tucker kept its small town Main Street while the metro grew around it, and the neighborhoods behind that Main Street are built on postwar brick ranches, the kind constructed from the 1930s through the 1970s on streets like Lynburn Drive. Those homes sit on good lots in a location buyers want, close to I-285 and the Northlake area, and dated originals attract renovation buyers while the larger lots attract builders. Atlanta Wholesale Double Close funds double closings across Tucker. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Tucker",
+      "localNote": "Tucker deals close through Georgia closing attorneys, typically in DeKalb County. The closing office your end buyer already uses can usually run both transactions back to back. Confirm the sequence with the closing team on your file.",
+      "whyHeading": "Why Tucker wholesalers use us",
+      "why": [
+        "Tucker's postwar ranches sit in one of the metro's most proven renovation markets. Renovated comps are established street by street, so your end buyer can underwrite the resale fast, and we make sure the purchase side matches that pace.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "Our fee schedule is published and flat. You can run your numbers before you ever call, and there are no surprise charges added at the closing table."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Ranch homes near Main Street and subdivision properties toward Northlake both fit."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Tucker?",
+          "a": "Yes. We fund deals throughout Tucker, from the postwar ranch neighborhoods around Main Street to the subdivisions near Northlake and the I-285 corridor."
+        },
+        {
+          "q": "What Tucker properties make good double close deals?",
+          "a": "The postwar brick ranches that fill Tucker's established neighborhoods are the classic deal here. Renovation buyers update them against strong comps and builders pursue the larger lots, so the resale side of a double closing moves quickly."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "stone-mountain",
+        "decatur",
+        "norcross"
+      ],
+      "blurb": "Small town Main Street with postwar brick ranches behind it, close to Northlake and I-285. A proven renovation market with established comps."
+    },
+    {
+      "slug": "douglasville",
+      "name": "Douglasville",
+      "county": "Douglas",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Douglasville, GA | Transactional Funding",
+      "description": "Transactional double close funding for Douglasville wholesalers. Fund deals along the I-20 west corridor, from downtown to Arbor Place. Fees from 1%.",
+      "h1Bottom": "in Douglasville, Georgia",
+      "hero": "Douglasville anchors the I-20 west corridor as the seat of Douglas County, mixing a historic downtown on Broad Street with the retail hub around Arbor Place and quick access to Sweetwater Creek State Park. For wholesalers, the draw is attainable price points: postwar ranch homes and 1980s to 2000s subdivisions where a wholesale spread still leaves room for the end buyer's renovation budget. Atlanta Wholesale Double Close funds double closings across Douglasville and Douglas County. We provide the money for your purchase side, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both sides close through a Georgia closing attorney. Submit your Douglasville deal through the form and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Douglasville",
+      "localNote": "Douglasville files close through Georgia closing attorneys, generally in Douglas County. Attainable price points here mean many deals fit the 1% funding tier with the $1,000 minimum, so it is worth running the minimum fee into your numbers on smaller deals. The closing team on your file can confirm the sequence for both sides.",
+      "whyHeading": "Why Douglasville wholesalers use us",
+      "why": [
+        "Douglasville is a margin market: entry prices are low enough that your spread and your buyer's renovation budget can both fit in the same deal. Our flat published fees keep the funding cost from eating into that math.",
+        "The I-20 corridor keeps Douglasville connected to Atlanta jobs, which supports resale demand for renovated homes. When your buyer is ready, we fund the purchase side so the chain closes on schedule.",
+        "We treat a $150K Douglasville ranch with the same speed and process as a $1M deal closer in. Every file gets the same published fee schedule and the same attention."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Ranches near downtown, Arbor Place area subdivisions, and county properties all fit."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office so both sides are ready before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day, your resale closes right behind it, and our funds and fee come out of the proceeds."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Douglasville?",
+          "a": "Yes. We fund deals throughout Douglasville and Douglas County, from the historic downtown on Broad Street to the subdivisions around Arbor Place and the communities along the I-20 corridor toward Villa Rica."
+        },
+        {
+          "q": "What Douglasville properties work best for a double closing?",
+          "a": "Postwar ranch homes and dated subdivision properties are the core of this market. Entry prices stay attainable enough that renovation buyers can still make their numbers, which keeps the resale side moving."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You purchase from the seller, take title briefly, and resell to your end buyer. Your wholesale fee stays between the two closing statements instead of appearing on one assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours once we have the deal details and the closing office information."
+        },
+        {
+          "q": "What does funding cost on a smaller deal?",
+          "a": "Deals up to $500K fund at 1% with a $1,000 minimum, which is the tier most Douglasville deals fall into. Additional days cost 0.2% per day, and the full schedule is published on this page."
+        },
+        {
+          "q": "Do you fund earnest money deposits?",
+          "a": "Yes. EMD funding is available, and Morby Method structures are funded with fees paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "powder-springs",
+        "mableton",
+        "atlanta"
+      ],
+      "blurb": "I-20 west corridor hub and Douglas County seat. Historic downtown, Arbor Place retail, and attainable ranch and subdivision pricing that leaves room for a spread."
+    },
+    {
+      "slug": "alpharetta",
+      "name": "Alpharetta",
+      "county": "Fulton",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Alpharetta, GA | Transactional Funding",
+      "description": "Double close funding for Alpharetta wholesalers. Same day transactional funding along the GA-400 corridor, from downtown to Avalon. Fees from 1%.",
+      "h1Bottom": "in Alpharetta, Georgia",
+      "hero": "Alpharetta grew from a small farm town into the center of the GA-400 technology corridor, with the Avalon district and a rebuilt downtown drawing buyers from across the metro. Underneath the new construction, the area still holds older ranch homes and first wave subdivisions whose dated interiors are exactly what renovation buyers want, because resale comps in Alpharetta support strong after repair values. Atlanta Wholesale Double Close funds double closings throughout Alpharetta. We provide the capital for your purchase side, you resell to your end buyer the same day, and your spread never appears on an assignment contract. Closings run through a Georgia closing attorney. Submit your Alpharetta deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Alpharetta",
+      "localNote": "Alpharetta closings run through Georgia closing attorneys, generally in Fulton County. Many properties here sit in HOA communities, and the resale side of your deal may need HOA resale documents ordered early to keep closing day on schedule. The closing team handling your file can confirm what the community requires.",
+      "whyHeading": "Why Alpharetta wholesalers use us",
+      "why": [
+        "Alpharetta's resale market rewards renovated homes with some of the strongest comps in north Fulton. End buyers know it, so good deals attract multiple cash buyers quickly. A funded double closing lets you move at the speed that market expects.",
+        "Many Alpharetta deals sit at price points where an assignment fee on a single contract would raise eyebrows. A double closing keeps your purchase and resale on separate statements, so neither side sees the full spread.",
+        "Our published fee schedule covers deals up to $1.5M, which fits the large majority of Alpharetta wholesale transactions, and the cost never changes based on the neighborhood."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. If the property is in an HOA, mention it so resale documents can be ordered early."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow down either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "On closing day we wire your purchase funds, your resale closes immediately after, and our funds and fee come out of the proceeds."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Alpharetta?",
+          "a": "Yes. We fund deals throughout Alpharetta, from the older ranch neighborhoods near downtown to the subdivisions around Avalon and along the GA-400 corridor toward Windward."
+        },
+        {
+          "q": "Are HOA properties a problem for a double closing?",
+          "a": "Not usually, but they add paperwork. Many Alpharetta neighborhoods are HOA communities, and the resale side often needs association documents that can take days to arrive. Order them early through the closing office and the double closing runs like any other."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller and immediately resell to your end buyer, taking title in between. Your wholesale fee stays off any single contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours with complete deal details and closing office information. HOA document timing affects the closing date more often than funding does."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "The fee schedule is published on this page: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, plus the listed fees for additional days, second closing companies, and special paperwork."
+        },
+        {
+          "q": "Do you fund earnest money deposits?",
+          "a": "Yes. EMD funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "roswell",
+        "milton",
+        "johns-creek"
+      ],
+      "blurb": "The GA-400 tech corridor with Avalon and a rebuilt downtown. Older ranches and first wave subdivisions sit under some of north Fulton's strongest resale comps."
+    },
+    {
+      "slug": "atlanta",
+      "name": "Atlanta",
+      "county": "Fulton",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Atlanta, GA | Transactional Funding for Wholesalers",
+      "description": "Transactional double close funding for Atlanta wholesalers. Buy and resell the same day without your own cash. Funding up to $1.5M, fees from 1%, as little as 24 hours.",
+      "h1Bottom": "in Atlanta, Georgia",
+      "hero": "Atlanta is where most Georgia wholesalers cut their teeth, and it is still the deepest pool of double close deals in the state. Intown neighborhoods along the BeltLine hold 1920s and 1930s bungalows that attract rehab buyers at strong prices, while southwest Atlanta and the westside offer postwar brick ranches at entry points that leave room for a wholesale spread. Atlanta Wholesale Double Close provides transactional funding for these deals across the city. You get the funds for your purchase side, resell to your end buyer the same day, and keep your assignment spread off a single contract. Both closings run through a Georgia closing attorney. Submit your Atlanta deal through the form and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Atlanta",
+      "localNote": "Georgia is generally an attorney closing state, so both sides of an Atlanta double closing typically run through a closing attorney's office rather than an escrow company. The closing office your buyer already uses can usually handle both transactions back to back. Confirm the exact sequence with the closing team on your deal.",
+      "whyHeading": "Why Atlanta wholesalers use us",
+      "why": [
+        "Atlanta deals move fast, especially intown. When a bungalow near the BeltLine or a brick ranch in southwest Atlanta hits your pipeline, the end buyer is often already waiting. A double closing lets you capture the spread on those deals without tying up your own money or exposing your markup to either side.",
+        "We fund the purchase side of your transaction so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between you and the closing file.",
+        "Our fee schedule is published on this page and stays the same deal after deal. You can run your numbers before you ever call, and there are no surprise charges added at the closing table."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the property address, your contract price, the resale price, and the closing office handling the file. Atlanta intown deals and suburban deals both fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We look at the purchase, the resale, and the paperwork with the closing attorney's office. Questions get answered before closing day, not at the table."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "On closing day we wire the funds for your purchase side. Your resale closes right after, our funds and fee come out of the proceeds, and the spread is yours."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings anywhere in the City of Atlanta?",
+          "a": "Yes. We fund double closings across the city, from intown neighborhoods near the BeltLine to the westside and southwest Atlanta, plus deals in the parts of the city that sit in DeKalb County. The property type matters less than the numbers: if the purchase and resale both make sense, the deal can usually be funded."
+        },
+        {
+          "q": "What kinds of Atlanta properties work for a double closing?",
+          "a": "Most Atlanta wholesale deals involve older housing stock, like the craftsman bungalows in intown neighborhoods or the postwar brick ranches found across the south and west sides. Those homes attract rehab buyers who pay cash, which makes the resale side of a double closing straightforward to schedule."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two back to back transactions on the same property. You buy the home from the seller, then immediately resell it to your end buyer. Because you take title in between, your purchase price and your resale price stay on separate closing statements instead of one assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours once we have the deal details and the closing office information. Files with complete paperwork move fastest, so send everything you have when you submit the form."
+        },
+        {
+          "q": "What does double close funding cost?",
+          "a": "Fees follow the schedule on this page: 1% on deals up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, and 1.50% from $1M to $1.5M. Extra days, a second closing company, or special paperwork carry the additional fees listed in the schedule."
+        },
+        {
+          "q": "Can you fund EMD or a Morby Method deal?",
+          "a": "Yes. Earnest money deposits and Morby Method structures are part of what we fund. Morby Method fees are paid upfront by Zelle or wire, as listed in the fee schedule above."
+        }
+      ],
+      "nearby": [
+        "decatur",
+        "brookhaven",
+        "east-point"
+      ],
+      "summaryFees": true,
+      "summarySteps": true,
+      "scenario": {
+        "title": "Example: how an intown Atlanta deal can play out",
+        "intro": "This is an illustrative example, not a real transaction or a promise of results. It shows the moving parts of a typical intown double closing so you can see where each piece fits.",
+        "items": [
+          "You sign a purchase contract on a 1940s bungalow near the West End Trail at $190,000 with a 14 day closing window.",
+          "Your end buyer, a rehabber who works the intown neighborhoods, commits at $248,000 through the same closing office.",
+          "The closing attorney schedules both files back to back. Transactional funding covers your $190,000 purchase side, so none of your own cash goes into the deal.",
+          "Your resale closes right after your purchase. The funding and the 1% fee from the published schedule come out of the resale proceeds, and the remaining spread is your margin."
+        ],
+        "outro": "The full sequence and the paperwork behind it are covered in how double closing works in Georgia, and the fee math is laid out on the transactional funding fees page."
+      },
+      "blurb": "The core of the metro, with intown bungalows near the BeltLine and postwar brick ranches on the south and west sides. The deepest deal flow in Georgia."
+    },
+    {
+      "slug": "college-park",
+      "name": "College Park",
+      "county": "Fulton",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in College Park, GA | Transactional Funding",
+      "description": "Double close funding for College Park wholesalers. Same day funding for historic district homes and airport corridor deals. Fees from 1%.",
+      "h1Bottom": "in College Park, Georgia",
+      "hero": "College Park holds one of the southside's deepest stocks of older homes, from early twentieth century houses in the historic district near Main Street to postwar cottages and ranches filling the neighborhoods around them. The airport next door and the interstates through town keep rental and resale demand constant, and the older housing gives wholesalers steady inventory: estate sales, tired rentals, and dated homes that renovation buyers want. Atlanta Wholesale Double Close funds double closings across College Park. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in College Park",
+      "localNote": "College Park deals close through Georgia closing attorneys, typically in Fulton County. Homes in the historic district can carry exterior renovation guidelines, which affects your buyer's plans more than the funding itself. The closing team on your file can confirm anything property specific.",
+      "whyHeading": "Why College Park wholesalers use us",
+      "why": [
+        "College Park's combination of older housing and airport driven demand makes it one of the most reliable wholesale markets on the southside. When your buyer list already works these streets, the only thing between contract and spread is a funded purchase closing.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "Most College Park deals fall into our 1% funding tier with the $1,000 minimum. The schedule is published on this page, so you can underwrite the funding cost into your offer before you tie up the property."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Historic district homes and postwar ranches across the city both fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in College Park?",
+          "a": "Yes. We fund deals throughout College Park, from the historic district near Main Street to the neighborhoods along the airport corridor and toward the East Point line."
+        },
+        {
+          "q": "What College Park properties make good double close deals?",
+          "a": "Early twentieth century homes in the historic district and postwar cottages and ranches across the city are the standard College Park deal. Both attract renovation buyers and landlords drawn by the airport and interstate access."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "east-point",
+        "forest-park",
+        "atlanta"
+      ],
+      "blurb": "The southside's deep bench of older homes, from the historic district on Main Street to postwar ranches along the airport corridor."
+    },
+    {
+      "slug": "east-point",
+      "name": "East Point",
+      "county": "Fulton",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in East Point, GA | Transactional Funding",
+      "description": "Double close funding for East Point wholesalers. Same day funding for bungalow and brick ranch deals minutes from downtown. Fees from 1%.",
+      "h1Bottom": "in East Point, Georgia",
+      "hero": "East Point grew as a streetcar suburb southwest of downtown Atlanta, and its older neighborhoods still carry that stock: early century bungalows near the Main Street downtown and postwar brick ranches filling the blocks around them. The foreclosure wave after 2008 left vacancies that investors have been absorbing ever since, and the location minutes from downtown Atlanta and the airport keeps end buyer demand strong. Wholesalers work East Point because the inventory and the buyers are both here. Atlanta Wholesale Double Close funds double closings across East Point. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in East Point",
+      "localNote": "East Point deals close through Georgia closing attorneys, typically in Fulton County. The closing office your end buyer already uses can usually run both transactions back to back. Confirm the sequence with the closing team on your file.",
+      "whyHeading": "Why East Point wholesalers use us",
+      "why": [
+        "East Point is a classic wholesale market: older housing, motivated sellers, and a buyer pool of renovators and landlords who know exactly what they want. When the deal is right it moves fast, and we make sure the funding keeps up.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "Most East Point deals fall into our 1% funding tier with the $1,000 minimum, which keeps costs predictable on the volume deals this market produces."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Bungalows near downtown and brick ranches across the city both fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in East Point?",
+          "a": "Yes. We fund deals throughout East Point, from the older neighborhoods near the Main Street downtown to the postwar ranches across the city and toward the College Park line."
+        },
+        {
+          "q": "What East Point properties make good double close deals?",
+          "a": "Early century bungalows and postwar brick ranches are the standard East Point deal. Renovation buyers restore them and landlords hold them, and both groups stay active because the location sits minutes from downtown Atlanta."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "college-park",
+        "atlanta",
+        "forest-park"
+      ],
+      "blurb": "Streetcar suburb minutes from downtown Atlanta. Early century bungalows and postwar brick ranches with a deep renovation buyer pool."
+    },
+    {
+      "slug": "johns-creek",
+      "name": "Johns Creek",
+      "county": "Fulton",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Johns Creek, GA | Transactional Funding",
+      "description": "Double close funding for Johns Creek wholesalers. Same day funding for estate and dated subdivision deals in north Fulton. Fees from 1%.",
+      "h1Bottom": "in Johns Creek, Georgia",
+      "hero": "Johns Creek is the metro's planned suburb, built out in the 1980s and early 1990s as landscaped subdivisions of brick and stone homes along the Chattahoochee in northeast Fulton. The wholesale deals here look different from the rest of the metro: not distressed blocks, but estate sales, long time owners, and original condition homes in subdivisions like those around Autrey Mill, where a dated interior is the whole opportunity. Renovation buyers pay premium prices for updated homes in these neighborhoods, so the resale side rewards whoever can close cleanly. Atlanta Wholesale Double Close funds double closings across Johns Creek. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Johns Creek",
+      "localNote": "Johns Creek deals close through Georgia closing attorneys, typically in Fulton County. Price points here often run higher than the metro average, and estate sales can add paperwork, so submit files early and confirm the sequence with the closing team on your deal.",
+      "whyHeading": "Why Johns Creek wholesalers use us",
+      "why": [
+        "Johns Creek deals come from timing, not distress: an estate that wants a clean sale, a long time owner with an original 1980s interior. A double closing gives the seller a straightforward cash purchase while your resale to a renovation buyer closes right behind it.",
+        "Price points here are among the highest in our service area, so fee discipline matters. Our schedule is published and flat, and funding over $1M simply gets a longer due diligence window rather than a different process.",
+        "We fund up to $1.5M, which covers the large majority of wholesale deals in this market, and both closings run through the same Georgia closing attorney your buyer already uses."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Estate sales and original condition homes both fit, and larger files should come in early."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office. Deals over $1M get extra due diligence time, so early submission helps."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Johns Creek?",
+          "a": "Yes. We fund deals throughout Johns Creek, in the planned subdivisions built in the 1980s and early 1990s that make up most of the city, from the Autrey Mill area to the neighborhoods along the Chattahoochee."
+        },
+        {
+          "q": "What Johns Creek properties make good double close deals?",
+          "a": "Original condition homes in the established subdivisions are the standard Johns Creek deal, often coming through estate sales or long time owners. Renovation buyers pay strong prices for updated homes in these neighborhoods, which keeps the resale side healthy."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information. Estate sales and larger files benefit from earlier submission."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "alpharetta",
+        "suwanee",
+        "duluth"
+      ],
+      "blurb": "Northeast Fulton's planned suburb, where 1980s and 1990s brick subdivisions produce estate sales and original condition homes at premium price points."
+    },
+    {
+      "slug": "milton",
+      "name": "Milton",
+      "county": "Fulton",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Milton, GA | Transactional Funding",
+      "description": "Transactional double close funding for Milton wholesalers in Fulton County. Review local property details, plan both closings and see published fees from 1%.",
+      "h1Bottom": "in Milton, Georgia",
+      "hero": "Milton has larger residential lots, subdivision homes and rural properties woven among horse farms. Milton\u2019s equestrian heritage is visible in horse farms spread among its neighborhoods, particularly away from denser crossroads. A house on acreage should not be evaluated as if it were a conventional subdivision home. If you have a purchase contract and an end buyer, a double closing lets you purchase the property and resell it in a separate transaction without funding the purchase from your own cash. Atlanta Wholesale Double Close offers transactional funding for qualified Milton deals up to $1.5M, with published fees starting at 1%. Share the address, both prices and closing information so the file can be reviewed; funding may be available in as little as 24 hours when the paperwork and timing allow.",
+      "localNoteTitle": "How double closings work in Milton",
+      "localNote": "A Milton double closing involves a purchase and a separate resale, typically coordinated through a Georgia closing attorney. For acreage or an equestrian property, confirm access, recorded easements, permitted uses and parcel details with the closing team. The closing team can confirm how the two transactions should be sequenced for the actual file.",
+      "whyHeading": "Why Milton wholesalers consider double closing funding",
+      "why": [
+        "A home near the Birmingham crossroads and a house on rural acreage can require very different buyer due diligence. Knowing which property you have helps you find a buyer who has looked at the land and any property-specific limitations as well as the home before you set a closing date.",
+        "Milton\u2019s horse farms and large residential lots make land details central to a transaction. A buyer considering barns or other changes needs to verify actual use restrictions, access and easements rather than relying on the area\u2019s rural look.",
+        "Acreage around Birmingham and a subdivision lot near Crabapple should not share the same resale assumptions. Review the land as well as the house. Compare the published fee schedule with both sale prices before committing to the file."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the Milton property address, purchase price, resale price and closing office details. Include the end buyer\u2019s status and anything unusual about the property or schedule."
+        },
+        {
+          "title": "Review the file",
+          "text": "We review the two transactions and proposed timing with the closing team. For Milton, for acreage or an equestrian property, confirm access, recorded easements, permitted uses and parcel details with the closing team."
+        },
+        {
+          "title": "Coordinate both closings",
+          "text": "If the file is approved, funding is provided for the purchase side and the resale follows according to the closing team\u2019s instructions. The team confirms the final settlement and disbursement details."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you consider double closings in Milton?",
+          "a": "Yes, you can submit a Milton property for review. We need the purchase and resale details plus the closing office information before confirming whether the deal and its timing work."
+        },
+        {
+          "q": "What should a buyer check on a Milton acreage deal?",
+          "a": "Review the parcel boundaries, access, easements and any restrictions before planning a resale or improvements. The closing team can identify recorded documents, while the buyer should evaluate the property itself."
+        },
+        {
+          "q": "What makes a Milton property different from a generic Atlanta deal?",
+          "a": "Milton\u2019s equestrian heritage is visible in horse farms spread among its neighborhoods, particularly away from denser crossroads. A house on acreage should not be evaluated as if it were a conventional subdivision home. Review the particular parcel, home type and intended buyer rather than assuming that every address in the city has the same resale conditions."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "It is a purchase from the seller followed by a separate sale to your end buyer. You take title between the two transactions, and the closing attorney can confirm how the file and proceeds should be handled."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding may be available in as little as 24 hours, depending on the file and closing team. Submit complete purchase, resale and end buyer information so the timing can be reviewed."
+        },
+        {
+          "q": "What does double close funding cost?",
+          "a": "The published schedule starts at 1% on transactions up to $500K, with a $1,000 minimum; it lists 1.25% from $500K to $1M and 1.50% from $1M to $1.5M. Check the additional-day and special-term fees in the schedule for your file."
+        }
+      ],
+      "nearby": [
+        "alpharetta",
+        "roswell",
+        "johns-creek"
+      ],
+      "summaryFees": true,
+      "scenario": {
+        "title": "A local checklist for Milton deals",
+        "intro": "Milton properties often involve land as much as the house, especially away from the denser crossroads. Work through this checklist before you schedule a double closing on acreage or an equestrian property.",
+        "items": [
+          "Confirm access and recorded easements on the parcel. Shared driveways, utility easements and bridle-path easements all affect what your end buyer is actually getting.",
+          "Verify permitted uses with the closing team. A buyer planning barns, fencing changes or a rebuild needs the actual restrictions, not the area's rural look.",
+          "Evaluate the land and the house separately. Acreage near Birmingham and a subdivision lot near Crabapple should not share the same resale assumptions.",
+          "Send the parcel details, both prices and the closing office with your submission so the review can account for the land questions up front."
+        ],
+        "outro": "For the two-transaction sequence, see how double closing works in Georgia. The published fee schedule applies in Milton the same as everywhere else we fund."
+      },
+      "blurb": "Large lots, subdivisions and horse farms around Crabapple and Birmingham make Milton a land-sensitive market."
+    },
+    {
+      "slug": "roswell",
+      "name": "Roswell",
+      "county": "Fulton",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Roswell, GA | Transactional Funding",
+      "description": "Transactional double close funding for Roswell wholesalers. Fund deals from the historic Canton Street district to the river communities. Fees from 1%.",
+      "h1Bottom": "in Roswell, Georgia",
+      "hero": "Roswell pairs one of the metro's most walkable historic districts, centered on Canton Street and the old Roswell Mill, with miles of 1970s through 1990s subdivisions stretching toward the Chattahoochee. That mix gives wholesalers two kinds of deals: older homes near the historic district that attract renovation buyers, and dated subdivision homes that attract fix and flip buyers looking for solid comps. Atlanta Wholesale Double Close funds double closings across Roswell. We supply the money for your purchase side, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both sides close through a Georgia closing attorney. Send your Roswell deal through the form and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Roswell",
+      "localNote": "Roswell deals close through Georgia closing attorneys, typically in Fulton County. Properties near the historic district can carry extra considerations like preservation guidelines for exterior changes, which affects your buyer's renovation plans more than the funding itself. The closing team on your file can confirm anything property specific.",
+      "whyHeading": "Why Roswell wholesalers use us",
+      "why": [
+        "Roswell's reputation with move up buyers keeps demand steady for renovated homes. When your end buyer is counting on that demand, the last thing you want is a funding delay on the purchase side. We fund the purchase so the whole chain closes on schedule.",
+        "Deals here range from smaller subdivision homes to larger properties near the river, and our fee schedule handles the full range without negotiation. You know the cost of funding before you commit.",
+        "A double closing keeps your spread private. In a market like Roswell where word travels fast among local sellers and agents, that privacy protects your pipeline for the next deal."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Homes near Canton Street and the subdivisions east toward the river both fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We confirm the purchase, the resale, and the paperwork with the closing attorney's office so there are no surprises on closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire the purchase funds on closing day, your resale closes right behind it, and our funds and fee come out of the proceeds. The spread is yours."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Roswell?",
+          "a": "Yes. We fund deals across Roswell, including the historic district near Canton Street, the neighborhoods around the Roswell Mill and Vickery Creek, and the subdivisions stretching east toward the Chattahoochee River."
+        },
+        {
+          "q": "What Roswell properties make good double close deals?",
+          "a": "Two types dominate. Older homes near the historic district attract buyers who renovate with the area's character in mind, and dated homes in the 1970s to 1990s subdivisions attract fix and flip buyers working off strong resale comps. Both resell well, which is what a double closing needs."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You purchase from the seller, take title, and immediately resell to your end buyer. Your profit stays between the two closing statements instead of appearing on one assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information. Complete paperwork is what makes the fast timeline possible."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "The published schedule applies: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, and 0.2% per day for additional days. Special paperwork or a second closing company carries the fees listed above."
+        },
+        {
+          "q": "Do you fund Morby Method deals?",
+          "a": "Yes. Morby Method funding is available with fees paid upfront by Zelle or wire, as the fee schedule lists."
+        }
+      ],
+      "nearby": [
+        "alpharetta",
+        "sandy-springs",
+        "marietta"
+      ],
+      "blurb": "Historic Canton Street and the Roswell Mill district plus miles of 1970s to 1990s subdivisions toward the Chattahoochee. Two distinct deal types for wholesalers."
+    },
+    {
+      "slug": "sandy-springs",
+      "name": "Sandy Springs",
+      "county": "Fulton",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Sandy Springs, GA | Transactional Funding",
+      "description": "Double close funding for Sandy Springs wholesalers. Same day transactional funding for deals from Perimeter Center to the Chattahoochee. Fees from 1%.",
+      "h1Bottom": "in Sandy Springs, Georgia",
+      "hero": "Sandy Springs sits along GA-400 just north of Buckhead, stretching from the office towers of Perimeter Center to the parks on the Chattahoochee River. The housing that draws investors here is the stock of 1950s through 1970s ranch homes on large wooded lots, many of them original and ready for renovation or replacement. End buyers compete hard for those lots, which makes Sandy Springs a natural fit for wholesale double closings at higher price points. Atlanta Wholesale Double Close provides transactional funding for Sandy Springs deals up to $1.5M. You take title with our funds, resell to your end buyer the same day, and the spread stays off the assignment contract. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Sandy Springs",
+      "localNote": "Sandy Springs closings typically run through a Georgia closing attorney's office, and most files in the area close in Fulton County. Because price points here often run higher than the metro average, double closings are common: sellers and buyers both prefer that the wholesale spread stays between the two closing statements. Confirm the sequence with the closing team on your file.",
+      "whyHeading": "Why Sandy Springs wholesalers use us",
+      "why": [
+        "The ranch homes on big lots near the Chattahoochee and along the GA-400 corridor bring out serious renovation and teardown buyers. Those buyers pay cash and close quickly, which is exactly what the resale side of a double closing needs.",
+        "Higher price points mean a higher fee for whoever funds the deal, and some funders get greedy on Sandy Springs files. Our fee schedule is published and flat, so a $900K Sandy Springs deal costs exactly what the schedule says.",
+        "We fund up to $1.5M, which covers the large majority of wholesale deals in this market, and funding over $1M simply gets a longer due diligence window rather than a different process."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Sandy Springs files often involve larger lots and higher prices, so include your end buyer's status too."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We review the purchase and resale with the closing attorney's office. Deals over $1M get extra due diligence time, so submit those as early as you can."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire funds for your purchase side on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Sandy Springs?",
+          "a": "Yes. We fund deals throughout Sandy Springs, from the neighborhoods near Perimeter Center to the river communities along the Chattahoochee. The ranch homes on larger lots that define much of the area are exactly the kind of property end buyers pursue here."
+        },
+        {
+          "q": "Can you fund higher priced Sandy Springs deals?",
+          "a": "We fund up to $1.5M, which covers most wholesale transactions in Sandy Springs. Funding over $1M comes with longer due diligence, and the fee steps from 1.25% to 1.50% at the $1M line as shown in the fee schedule."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two transactions on the same property on the same day. You buy from the seller, then resell to your end buyer, taking title in between. Your wholesale spread stays off any single contract, which sellers and buyers in higher priced markets like Sandy Springs tend to appreciate."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours once we have your deal details and the closing office information. Larger files benefit from an earlier submission because the extra due diligence takes time."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, and 1.50% from $1M to $1.5M. Additional days cost 0.2% per day, and using two closing companies carries a 1.75% fee."
+        },
+        {
+          "q": "Do you fund earnest money deposits?",
+          "a": "Yes, EMD funding is available, and we also fund Morby Method structures with fees paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "dunwoody",
+        "roswell",
+        "brookhaven"
+      ],
+      "blurb": "GA-400 corridor from Perimeter Center to the Chattahoochee. Postwar ranches on big wooded lots draw renovation and teardown buyers at higher price points."
+    },
+    {
+      "slug": "union-city",
+      "name": "Union City",
+      "county": "Fulton",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Union City, GA | Transactional Funding",
+      "description": "Transactional double close funding for Union City wholesalers in Fulton County. Review local property details, plan both closings and see published fees from 1%.",
+      "h1Bottom": "in Union City, Georgia",
+      "hero": "Union City has suburban neighborhoods along the I-85 corridor and the streets closer to the older town center. Union City\u2019s planning work treats its residential areas and highway gateways as distinct places. Current city projects include improvements along Shannon Parkway and Roosevelt Highway, without guaranteeing a change in any home\u2019s value. If you have a purchase contract and an end buyer, a double closing lets you purchase the property and resell it in a separate transaction without funding the purchase from your own cash. Atlanta Wholesale Double Close offers transactional funding for qualified Union City deals up to $1.5M, with published fees starting at 1%. Share the address, both prices and closing information so the file can be reviewed; funding may be available in as little as 24 hours when the paperwork and timing allow.",
+      "localNoteTitle": "How double closings work in Union City",
+      "localNote": "A Union City double closing involves a purchase and a separate resale, typically coordinated through a Georgia closing attorney. Check the exact address and condition rather than treating a planned streetscape project as a resale guarantee. The closing team can confirm how the two transactions should be sequenced for the actual file.",
+      "whyHeading": "Why Union City wholesalers consider double closing funding",
+      "why": [
+        "A property near the older town center and one in an I-85-side subdivision may call for different end buyers and repair budgets. Knowing which property you have helps you find a buyer who has checked the specific neighborhood, building and resale plan before you set a closing date.",
+        "Union City is improving Shannon Parkway and Roosevelt Highway, but a streetscape plan does not establish an end buyer\u2019s price. Review the residential block and property condition independently of planned public work.",
+        "The town center and I-85-side subdivisions occupy different parts of Union City\u2019s growth story; the buyer should assess the actual house rather than a corridor headline. Compare the published fee schedule with both sale prices before committing to the file."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the Union City property address, purchase price, resale price and closing office details. Include the end buyer\u2019s status and anything unusual about the property or schedule."
+        },
+        {
+          "title": "Review the file",
+          "text": "We review the two transactions and proposed timing with the closing team. For Union City, check the exact address and condition rather than treating a planned streetscape project as a resale guarantee."
+        },
+        {
+          "title": "Coordinate both closings",
+          "text": "If the file is approved, funding is provided for the purchase side and the resale follows according to the closing team\u2019s instructions. The team confirms the final settlement and disbursement details."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you consider double closings in Union City?",
+          "a": "Yes, you can submit a Union City property for review. We need the purchase and resale details plus the closing office information before confirming whether the deal and its timing work."
+        },
+        {
+          "q": "Do Union City road projects change a deal\u2019s funding?",
+          "a": "City projects along Shannon Parkway and Roosevelt Highway provide local context, not a promise about a property\u2019s price or closing. Underwrite the actual purchase and resale, and confirm the sequence with the closing attorney."
+        },
+        {
+          "q": "What makes a Union City property different from a generic Atlanta deal?",
+          "a": "Union City\u2019s planning work treats its residential areas and highway gateways as distinct places. Current city projects include improvements along Shannon Parkway and Roosevelt Highway, without guaranteeing a change in any home\u2019s value. Review the particular parcel, home type and intended buyer rather than assuming that every address in the city has the same resale conditions."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "It is a purchase from the seller followed by a separate sale to your end buyer. You take title between the two transactions, and the closing attorney can confirm how the file and proceeds should be handled."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding may be available in as little as 24 hours, depending on the file and closing team. Submit complete purchase, resale and end buyer information so the timing can be reviewed."
+        },
+        {
+          "q": "What does double close funding cost?",
+          "a": "The published schedule starts at 1% on transactions up to $500K, with a $1,000 minimum; it lists 1.25% from $500K to $1M and 1.50% from $1M to $1.5M. Check the additional-day and special-term fees in the schedule for your file."
+        }
+      ],
+      "nearby": [
+        "college-park",
+        "east-point",
+        "forest-park"
+      ],
+      "blurb": "Residential streets and subdivisions near I-85, with city improvements planned along Shannon Parkway and Roosevelt Highway."
+    },
+    {
+      "slug": "duluth",
+      "name": "Duluth",
+      "county": "Gwinnett",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Duluth, GA | Transactional Funding",
+      "description": "Transactional double close funding for Duluth and west Gwinnett wholesalers. Fund subdivision deals near the Town Green and Sugarloaf. Fees from 1%.",
+      "h1Bottom": "in Duluth, Georgia",
+      "hero": "Duluth sits in the heart of Gwinnett County, with a revived downtown Town Green, the Sugarloaf corridor, and some of the most diverse neighborhoods in the Southeast. The housing stock is heavy on 1980s and 1990s subdivisions, and those dated two story homes are a fix and flip staple because buyer demand in west Gwinnett never seems to cool. Atlanta Wholesale Double Close funds double closings across Duluth. We put up the money for your purchase, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both sides close through a Georgia closing attorney. Submit your Duluth deal through the form and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Duluth",
+      "localNote": "Duluth files close through Georgia closing attorneys, generally in Gwinnett County. Many properties here sit in HOA communities with swim and tennis amenities, and resale documents can take a few days to arrive, so ordering them early keeps closing day on schedule. The closing team on your file can confirm what the community requires.",
+      "whyHeading": "Why Duluth wholesalers use us",
+      "why": [
+        "Duluth's subdivision stock gives wholesalers repeatable deals: predictable floor plans, readable comps, and a deep bench of flip buyers who know the neighborhoods. Our funding is built for exactly that kind of repeatable volume.",
+        "Gwinnett's buyer pool is broad, from flippers to families buying renovated homes, so the resale side of a Duluth double closing rarely lacks demand. We make sure the purchase side never holds it up.",
+        "Our published fee schedule covers most Duluth deals at the 1% tier, and the cost is the same on every deal, every neighborhood, every time."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. If the home is in an HOA, mention it so resale documents can be ordered early."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We confirm the purchase, the resale, and the paperwork with the closing attorney's office before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day, your resale closes right behind it, and our funds and fee come out of the proceeds."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Duluth?",
+          "a": "Yes. We fund deals throughout Duluth, including the subdivisions around the Town Green, the Sugarloaf area, and the neighborhoods toward Peachtree Corners and Norcross."
+        },
+        {
+          "q": "What Duluth properties work best for a double closing?",
+          "a": "The 1980s and 1990s subdivision homes are the backbone of this market. They are easy to comp, renovation buyers know them well, and the resale demand from families keeps the exit straightforward. Dated homes with original interiors are the sweet spot."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title briefly, and resell to your end buyer. The purchase and resale stay on separate closing statements, so your wholesale fee remains private."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours once we have the deal details and closing office information. HOA documents are usually the slower piece, so order those early."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "The published schedule applies: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, plus the listed fees for additional days and special paperwork."
+        },
+        {
+          "q": "Do you fund earnest money deposits?",
+          "a": "Yes. EMD funding is available, and Morby Method structures are funded with fees paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "norcross",
+        "suwanee",
+        "lawrenceville"
+      ],
+      "blurb": "West Gwinnett hub with a revived Town Green and the Sugarloaf corridor. 1980s to 1990s swim and tennis subdivisions are fix and flip staples."
+    },
+    {
+      "slug": "lawrenceville",
+      "name": "Lawrenceville",
+      "county": "Gwinnett",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Lawrenceville, GA | Transactional Funding",
+      "description": "Double close funding for Lawrenceville wholesalers. Same day transactional funding across Gwinnett's county seat. Fees from 1%, as little as 24 hours.",
+      "h1Bottom": "in Lawrenceville, Georgia",
+      "hero": "Lawrenceville is the seat of Gwinnett County and one of the oldest cities in the metro, incorporated in 1821, with a historic courthouse square that has come back to life around the Aurora Theatre. Beyond the square, the city spreads into some of the largest subdivisions in the county, and that combination of older homes near downtown and dated subdivision properties gives wholesalers deal flow at every price point. Atlanta Wholesale Double Close funds double closings across Lawrenceville. We supply the capital for your purchase side, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both transactions close through a Georgia closing attorney. Submit your Lawrenceville deal through the form and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Lawrenceville",
+      "localNote": "Lawrenceville files close through Georgia closing attorneys in Gwinnett County. The county seat location means the courthouse and county offices are close at hand for anything the file needs. The closing team on your deal can confirm scheduling for both sides of the transaction.",
+      "whyHeading": "Why Lawrenceville wholesalers use us",
+      "why": [
+        "Lawrenceville offers range: smaller older homes near the square for entry level deals and big subdivision properties for larger spreads. Our fee schedule handles the full range without negotiation, so you can underwrite funding cost before you make the offer.",
+        "Gwinnett's growth keeps resale demand strong at every price point in Lawrenceville. When your end buyer is ready to close, we make sure the purchase side is funded and waiting.",
+        "A double closing keeps your margin private on both statements. In a market where sellers talk to neighbors and neighbors talk to wholesalers, that privacy is worth protecting."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Homes near the historic square and subdivision properties across the city both fit."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could delay either side."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day, your resale closes immediately after, and our funds and fee come out of the proceeds."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Lawrenceville?",
+          "a": "Yes. We fund deals throughout Lawrenceville, from the older neighborhoods near the courthouse square and the Aurora Theatre to the large subdivisions stretching across the city toward Buford and Snellville."
+        },
+        {
+          "q": "What Lawrenceville properties make good double close deals?",
+          "a": "Older homes near downtown attract buyers who want character at a lower entry point, while the dated subdivision homes attract the flip buyers who work off family resale comps. Both resell reliably, which is what a double closing needs."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and resell to your end buyer immediately. Your wholesale spread stays between the two closing statements rather than on one assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we receive the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, and 0.2% per day for additional days."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "duluth",
+        "snellville",
+        "suwanee"
+      ],
+      "blurb": "Gwinnett's county seat since 1821, with a revived courthouse square around the Aurora Theatre and some of the county's largest subdivisions."
+    },
+    {
+      "slug": "norcross",
+      "name": "Norcross",
+      "county": "Gwinnett",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Norcross, GA | Transactional Funding",
+      "description": "Double close funding for Norcross wholesalers. Same day funding from the historic downtown to the Buford Highway corridor. Fees from 1%.",
+      "h1Bottom": "in Norcross, Georgia",
+      "hero": "Norcross started as a railroad town, and its historic downtown still holds Victorian era homes and early century cottages within walking distance of the depot. Around that core, the city spread into 1970s through 1990s subdivisions and the busy corridors along Buford Highway and Jimmy Carter Boulevard. Wholesalers find two markets here: character homes near downtown that attract renovation buyers, and dated subdivision homes at accessible prices that attract flippers and landlords. Atlanta Wholesale Double Close funds double closings across Norcross. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Norcross",
+      "localNote": "Norcross deals close through Georgia closing attorneys, typically in Gwinnett County. Homes near the historic district can carry exterior renovation guidelines, which affects your buyer's plans more than the funding itself. Confirm anything property specific with the closing team on your file.",
+      "whyHeading": "Why Norcross wholesalers use us",
+      "why": [
+        "Norcross gives you range. A Victorian era cottage near the depot and a dated ranch in a 1980s subdivision are completely different deals, but the process stays the same: we fund your purchase side and your resale closes right behind it.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "Our fee schedule is published and flat across every city we fund. You can underwrite the funding cost into your offer before you tie up the property, and there are no surprise charges at the closing table."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Homes near downtown and subdivision properties along the corridors both fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Norcross?",
+          "a": "Yes. We fund deals throughout Norcross, from the historic downtown near the depot to the subdivisions along Buford Highway and Jimmy Carter Boulevard."
+        },
+        {
+          "q": "What Norcross properties make good double close deals?",
+          "a": "Older homes near the historic downtown attract renovation buyers looking for character, and dated subdivision homes attract flippers and landlords at accessible prices. Both move well when the numbers are right."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "peachtree-corners",
+        "duluth",
+        "tucker"
+      ],
+      "blurb": "Railroad town roots with a Victorian era downtown, surrounded by 1970s to 1990s subdivisions and the Buford Highway corridor."
+    },
+    {
+      "slug": "peachtree-corners",
+      "name": "Peachtree Corners",
+      "county": "Gwinnett",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Peachtree Corners, GA | Transactional Funding",
+      "description": "Double close funding for Peachtree Corners wholesalers. Same day funding for subdivision deals near Technology Park. Fees from 1%.",
+      "h1Bottom": "in Peachtree Corners, Georgia",
+      "hero": "Peachtree Corners began in the late 1960s as a planned community built around Technology Park Atlanta, and the neighborhoods that grew with it are 1970s and 1980s subdivisions along the Chattahoochee in western Gwinnett. Those homes are dated originals now, sitting in a location that move up buyers and tech corridor employees want, and the Town Center has given the city a walkable core that only adds to resale demand. Atlanta Wholesale Double Close funds double closings across Peachtree Corners. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Peachtree Corners",
+      "localNote": "Peachtree Corners deals close through Georgia closing attorneys, typically in Gwinnett County. The closing office your end buyer already uses can usually run both transactions back to back. Confirm the sequence with the closing team on your file.",
+      "whyHeading": "Why Peachtree Corners wholesalers use us",
+      "why": [
+        "Peachtree Corners subdivisions have the two things renovation buyers want: dated 1970s and 1980s interiors and a location with deep resale demand from the Technology Park employment base and the Chattahoochee. When your buyer can underwrite the resale quickly, we make sure the purchase side never holds up the deal.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "Our fee schedule is published and flat. Most Peachtree Corners deals land in the 1% or 1.25% tiers, and you can run your numbers before you ever call."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Subdivision homes near the river and properties around Technology Park both fit."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Peachtree Corners?",
+          "a": "Yes. We fund deals throughout Peachtree Corners, from the subdivisions along the Chattahoochee to the neighborhoods around Technology Park and the Town Center."
+        },
+        {
+          "q": "What Peachtree Corners properties make good double close deals?",
+          "a": "Dated 1970s and 1980s subdivision homes are the standard deal here. Renovation buyers update them for a deep pool of move up buyers, so the resale side of a double closing is usually easy to schedule."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "norcross",
+        "duluth",
+        "johns-creek"
+      ],
+      "blurb": "Planned community built around Technology Park Atlanta, with 1970s and 1980s subdivisions along the Chattahoochee and a new walkable Town Center."
+    },
+    {
+      "slug": "snellville",
+      "name": "Snellville",
+      "county": "Gwinnett",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Snellville, GA | Transactional Funding",
+      "description": "Transactional double close funding for Snellville wholesalers in Gwinnett County. Review local property details, plan both closings and see published fees from 1%.",
+      "h1Bottom": "in Snellville, Georgia",
+      "hero": "Snellville has midcentury brick homes and later suburban neighborhoods beyond the historic crossroads. Snellville grew from a trading crossroads into a commuter suburb; local builders added brick homes in the late 1950s. The Grove at Towne Center has since added a different, walkable kind of downtown. If you have a purchase contract and an end buyer, a double closing lets you purchase the property and resell it in a separate transaction without funding the purchase from your own cash. Atlanta Wholesale Double Close offers transactional funding for qualified Snellville deals up to $1.5M, with published fees starting at 1%. Share the address, both prices and closing information so the file can be reviewed; funding may be available in as little as 24 hours when the paperwork and timing allow.",
+      "localNoteTitle": "How double closings work in Snellville",
+      "localNote": "A Snellville double closing involves a purchase and a separate resale, typically coordinated through a Georgia closing attorney. Check the property address rather than assuming a home with a Snellville mailing address is inside city limits. The closing team can confirm how the two transactions should be sequenced for the actual file.",
+      "whyHeading": "Why Snellville wholesalers consider double closing funding",
+      "why": [
+        "A brick home from Snellville\u2019s early suburban growth needs a different renovation budget than a later subdivision house. Knowing which property you have helps you find a buyer prepared to assess the age and condition of a brick home or a later subdivision property before you set a closing date.",
+        "Snellville\u2019s brick homes from its first suburban building wave may need inspection of older systems, while later homes present different repair questions. Keep the buyer\u2019s renovation assumptions separate from the purchase closing\u2019s funding review.",
+        "The Highway 78 and Georgia 124 crossroads is only a starting point: the brick-home construction wave and newer housing near The Grove are not interchangeable deal contexts. Compare the published fee schedule with both sale prices before committing to the file."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the Snellville property address, purchase price, resale price and closing office details. Include the end buyer\u2019s status and anything unusual about the property or schedule."
+        },
+        {
+          "title": "Review the file",
+          "text": "We review the two transactions and proposed timing with the closing team. For Snellville, check the property address rather than assuming a home with a Snellville mailing address is inside city limits."
+        },
+        {
+          "title": "Coordinate both closings",
+          "text": "If the file is approved, funding is provided for the purchase side and the resale follows according to the closing team\u2019s instructions. The team confirms the final settlement and disbursement details."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you consider double closings in Snellville?",
+          "a": "Yes, you can submit a Snellville property for review. We need the purchase and resale details plus the closing office information before confirming whether the deal and its timing work."
+        },
+        {
+          "q": "Why mention the age of a Snellville brick home?",
+          "a": "The city traces a wave of brick home construction to local builders in the late 1950s. Age alone does not establish condition, so the buyer should inspect the actual house and budget for its systems."
+        },
+        {
+          "q": "What makes a Snellville property different from a generic Atlanta deal?",
+          "a": "Snellville grew from a trading crossroads into a commuter suburb; local builders added brick homes in the late 1950s. The Grove at Towne Center has since added a different, walkable kind of downtown. Review the particular parcel, home type and intended buyer rather than assuming that every address in the city has the same resale conditions."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "It is a purchase from the seller followed by a separate sale to your end buyer. You take title between the two transactions, and the closing attorney can confirm how the file and proceeds should be handled."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding may be available in as little as 24 hours, depending on the file and closing team. Submit complete purchase, resale and end buyer information so the timing can be reviewed."
+        },
+        {
+          "q": "What does double close funding cost?",
+          "a": "The published schedule starts at 1% on transactions up to $500K, with a $1,000 minimum; it lists 1.25% from $500K to $1M and 1.50% from $1M to $1.5M. Check the additional-day and special-term fees in the schedule for your file."
+        }
+      ],
+      "nearby": [
+        "lawrenceville",
+        "stone-mountain",
+        "tucker"
+      ],
+      "blurb": "Midcentury brick houses and later subdivisions spread out from the Highway 78 and Georgia 124 crossroads."
+    },
+    {
+      "slug": "suwanee",
+      "name": "Suwanee",
+      "county": "Gwinnett",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Suwanee, GA | Transactional Funding",
+      "description": "Transactional double close funding for Suwanee wholesalers in Gwinnett County. Review local property details, plan both closings and see published fees from 1%.",
+      "h1Bottom": "in Suwanee, Georgia",
+      "hero": "Suwanee has the older streets around the railroad-era Old Town and the newer homes near Town Center. The railroad shaped Old Town, while Town Center brought a newer mix of homes and shops around its park. If you have a purchase contract and an end buyer, a double closing lets you purchase the property and resell it in a separate transaction without funding the purchase from your own cash. Atlanta Wholesale Double Close offers transactional funding for qualified Suwanee deals up to $1.5M, with published fees starting at 1%. Share the address, both prices and closing information so the file can be reviewed; funding may be available in as little as 24 hours when the paperwork and timing allow.",
+      "localNoteTitle": "How double closings work in Suwanee",
+      "localNote": "A Suwanee double closing involves a purchase and a separate resale, typically coordinated through a Georgia closing attorney. Confirm whether the parcel sits in a townhome or condominium community and request any resale documents early. The closing team can confirm how the two transactions should be sequenced for the actual file.",
+      "whyHeading": "Why Suwanee wholesalers consider double closing funding",
+      "why": [
+        "An older Old Town house and a Town Center townhome call for different resale plans, even when both are in Suwanee. Knowing which property you have helps you find an end buyer looking for an older house to renovate or a more recent home near the downtown parks before you set a closing date.",
+        "With Suwanee\u2019s Old Town houses and Town Center\u2019s attached homes in the same city, a buyer\u2019s paperwork can vary considerably. Separate purchase and resale files give the closing attorney a clear place to account for title and association documents.",
+        "Suwanee\u2019s railroad-era blocks and newer Town Center development sit close together, but the resale plan should be based on the parcel and its actual housing type. Compare the published fee schedule with both sale prices before committing to the file."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the Suwanee property address, purchase price, resale price and closing office details. Include the end buyer\u2019s status and anything unusual about the property or schedule."
+        },
+        {
+          "title": "Review the file",
+          "text": "We review the two transactions and proposed timing with the closing team. For Suwanee, confirm whether the parcel sits in a townhome or condominium community and request any resale documents early."
+        },
+        {
+          "title": "Coordinate both closings",
+          "text": "If the file is approved, funding is provided for the purchase side and the resale follows according to the closing team\u2019s instructions. The team confirms the final settlement and disbursement details."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you consider double closings in Suwanee?",
+          "a": "Yes, you can submit a Suwanee property for review. We need the purchase and resale details plus the closing office information before confirming whether the deal and its timing work."
+        },
+        {
+          "q": "Does a Suwanee Town Center townhome work for a double close?",
+          "a": "It may. Town Center includes townhomes and condos as well as detached houses, but the closing team should check association documents and any transfer requirements for the specific unit."
+        },
+        {
+          "q": "What makes a Suwanee property different from a generic Atlanta deal?",
+          "a": "The railroad shaped Old Town, while Town Center brought a newer mix of homes and shops around its park. Review the particular parcel, home type and intended buyer rather than assuming that every address in the city has the same resale conditions."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "It is a purchase from the seller followed by a separate sale to your end buyer. You take title between the two transactions, and the closing attorney can confirm how the file and proceeds should be handled."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding may be available in as little as 24 hours, depending on the file and closing team. Submit complete purchase, resale and end buyer information so the timing can be reviewed."
+        },
+        {
+          "q": "What does double close funding cost?",
+          "a": "The published schedule starts at 1% on transactions up to $500K, with a $1,000 minimum; it lists 1.25% from $500K to $1M and 1.50% from $1M to $1.5M. Check the additional-day and special-term fees in the schedule for your file."
+        }
+      ],
+      "nearby": [
+        "duluth",
+        "johns-creek",
+        "lawrenceville"
+      ],
+      "blurb": "Railroad-era Old Town meets the newer homes, townhomes and park-centered blocks of Suwanee Town Center."
+    },
+    {
+      "slug": "mcdonough",
+      "name": "McDonough",
+      "county": "Henry",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in McDonough, GA | Transactional Funding",
+      "description": "Double close funding for McDonough and Henry County wholesalers. Same day transactional funding along the I-75 south corridor. Fees from 1%.",
+      "h1Bottom": "in McDonough, Georgia",
+      "hero": "McDonough is the seat of Henry County and the center of the I-75 south corridor, one of the fastest growing parts of the metro. A historic square anchors the old downtown, and around it newer subdivisions keep rising next to established neighborhoods with dated homes ready for renovation. That growth gives wholesalers something valuable: constant buyer demand at prices that still leave room for a spread. Atlanta Wholesale Double Close funds double closings across McDonough and Henry County. We supply the capital for your purchase side, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both transactions close through a Georgia closing attorney. Submit your McDonough deal through the form and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in McDonough",
+      "localNote": "McDonough files close through Georgia closing attorneys, generally in Henry County. Rapid growth means some deals involve homes in recently built subdivisions with active HOAs, so ordering resale documents early helps keep closing day on schedule. The closing team on your file can confirm what the community requires.",
+      "whyHeading": "Why McDonough wholesalers use us",
+      "why": [
+        "Henry County's growth keeps feeding the buyer pool: families moving south along I-75, flippers working the established neighborhoods, and investors holding rentals. More buyers means your resale side rarely waits long, and we make sure the purchase side never delays it.",
+        "Most McDonough deals fall into our 1% funding tier, which keeps costs predictable on the volume deals this market produces.",
+        "Our fee schedule is published and flat, so you can underwrite the funding cost into your offer before you tie up the property."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Homes near the square and subdivision properties across Henry County both fit."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day, your resale closes immediately after, and our funds and fee come out of the proceeds."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in McDonough?",
+          "a": "Yes. We fund deals throughout McDonough and Henry County, from the neighborhoods around the historic square to the newer subdivisions along the I-75 corridor toward Stockbridge, Locust Grove, and Hampton."
+        },
+        {
+          "q": "What McDonough properties make good double close deals?",
+          "a": "Dated homes in the established neighborhoods attract renovation buyers working off strong resale comps, and even newer subdivision homes come through wholesale when sellers need speed. The growth along I-75 keeps the buyer pool deep for both."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "stockbridge",
+        "stonecrest",
+        "forest-park"
+      ],
+      "blurb": "Henry County seat on the booming I-75 south corridor. Historic square plus constant new subdivisions, with growth that keeps resale demand deep."
+    },
+    {
+      "slug": "stockbridge",
+      "name": "Stockbridge",
+      "county": "Henry",
+      "formName": "Atlanta-Wholesale-Double-Close-Form",
+      "title": "Double Close Funding in Stockbridge, GA | Transactional Funding",
+      "description": "Double close funding for Stockbridge wholesalers. Same day funding for Henry County subdivision deals along I-75. Fees from 1%.",
+      "h1Bottom": "in Stockbridge, Georgia",
+      "hero": "Stockbridge grew from a small railroad stop into one of Henry County's busiest suburbs, with subdivisions from the 1980s through the 2000s filling the corridor between I-75 and I-675. Prices here stay at the metro's entry level, and the location twenty minutes south of the airport keeps both rental and resale demand steady. Dated homes in the older subdivisions are the bread and butter deals: landlords take the clean ones and renovation buyers take the tired ones. Atlanta Wholesale Double Close funds double closings across Stockbridge and Henry County. We supply the purchase money, you resell to your end buyer the same day, and your spread stays off a single assignment contract. Both closings run through a Georgia closing attorney. Submit your deal and funding can be ready in as little as 24 hours.",
+      "localNoteTitle": "How double closings work in Stockbridge",
+      "localNote": "Stockbridge deals close through Georgia closing attorneys, typically in Henry County. The closing office your end buyer already uses can usually run both transactions back to back. Confirm the sequence with the closing team on your file.",
+      "whyHeading": "Why Stockbridge wholesalers use us",
+      "why": [
+        "Stockbridge is a volume market with room to work. Entry level prices leave space for a wholesale spread, and the buyer pool between I-75 and I-675 is deep enough that a well priced resale does not sit long. We fund the purchase side so the whole chain closes on schedule.",
+        "We fund the purchase side so you can take title and resell the same day. Your seller sees a clean cash purchase, your buyer sees a normal sale, and your margin stays between the two closing statements.",
+        "Nearly every Stockbridge deal falls into our 1% funding tier with the $1,000 minimum, so costs stay predictable on the volume deals this market produces."
+      ],
+      "steps": [
+        {
+          "title": "Submit your deal",
+          "text": "Send the address, contract price, resale price, and closing office. Subdivision homes across Stockbridge and greater Henry County both fit the same form."
+        },
+        {
+          "title": "We review the numbers",
+          "text": "We verify the purchase and resale with the closing attorney's office and flag anything that could slow either side before closing day."
+        },
+        {
+          "title": "We fund your purchase",
+          "text": "We wire your purchase funds on closing day. Your resale closes behind it, our funds and fee come out of the proceeds, and the rest is your spread."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you fund double closings in Stockbridge?",
+          "a": "Yes. We fund deals throughout Stockbridge and the rest of Henry County, in the subdivisions built from the 1980s onward along the I-75 and I-675 corridors."
+        },
+        {
+          "q": "What Stockbridge properties make good double close deals?",
+          "a": "Dated subdivision homes at entry level prices are the standard Stockbridge deal. Landlords and renovation buyers both work this market, so the resale side of a double closing is usually easy to schedule."
+        },
+        {
+          "q": "What is a double closing?",
+          "a": "A double closing is two same day transactions on one property. You buy from the seller, take title, and immediately resell to your end buyer. Your wholesale spread stays between the two closing statements rather than on a single assignment contract."
+        },
+        {
+          "q": "How fast can funding be ready?",
+          "a": "Funding can be ready in as little as 24 hours after we have the deal details and closing office information."
+        },
+        {
+          "q": "What does funding cost?",
+          "a": "Fees follow the published schedule: 1% up to $500K with a $1,000 minimum, 1.25% from $500K to $1M, 1.50% from $1M to $1.5M, with additional days at 0.2% per day."
+        },
+        {
+          "q": "Can you fund EMD or Morby Method deals?",
+          "a": "Yes. Earnest money deposit funding and Morby Method structures are both available. Morby Method fees are paid upfront by Zelle or wire."
+        }
+      ],
+      "nearby": [
+        "mcdonough",
+        "forest-park",
+        "stonecrest"
+      ],
+      "blurb": "Henry County's entry level suburb between I-75 and I-675, packed with 1980s to 2000s subdivisions that landlords and flippers both work."
+    }
+  ],
+  "pages": {
+    "howItWorks": {
+      "path": "/how-double-closing-works-in-georgia/",
+      "title": "How Double Closing Works in Georgia",
+      "description": "The attorney coordinated A-B and B-C sequence of a Georgia double closing, the paperwork each side needs, and where transactional funding fits.",
+      "h1": "How Double Closing Works in Georgia",
+      "faqs": [
+        {
+          "q": "Is a double closing legal in Georgia?",
+          "a": "Double closings are a common structure for investor transactions across Georgia. Each side is a separate, fully documented purchase and sale that runs through a closing attorney's office. Legal questions about your specific contract belong with the closing attorney on your file."
+        },
+        {
+          "q": "Do both closings have to happen on the same day?",
+          "a": "They are typically scheduled back to back on the same day, and transactional funding is priced for that short hold. If the resale side moves to another day, the additional day fee in the published schedule applies for each extra day the funds are out."
+        },
+        {
+          "q": "Who chooses the closing attorney?",
+          "a": "Often the office your end buyer already uses can run both transactions. What matters most is an office that handles investor double closings regularly and is comfortable coordinating the two files in sequence."
+        },
+        {
+          "q": "What does the funding fee cover?",
+          "a": "The fee covers the use of our funds for your purchase side, and it follows the published schedule based on the funding amount. The full schedule and worked examples are on the transactional funding fees page."
+        },
+        {
+          "q": "Can I assign the contract instead of double closing?",
+          "a": "Sometimes. Assignment works when the contract allows it and everyone is comfortable seeing the fee. The double close vs assignment comparison walks through when each structure tends to fit."
+        }
+      ],
+      "schemaName": "How Double Closing Works in Georgia",
+      "schemaDescription": "The attorney coordinated A-B and B-C sequence of a Georgia double closing, the paperwork each side needs, and where transactional funding fits."
+    },
+    "vsAssignment": {
+      "path": "/double-close-vs-assignment/",
+      "title": "Double Close vs Assignment: Which Fits Your Deal",
+      "description": "An honest comparison of double closing and assignment for Georgia wholesalers: cost, privacy, contract restrictions and when each structure fits.",
+      "h1": "Double Close vs Assignment",
+      "faqs": [
+        {
+          "q": "Can any contract be assigned?",
+          "a": "No. Many contracts restrict or prohibit assignment, and some deal types like certain REO or estate sales are commonly non-assignable. Have the closing office or your agent check the assignment language in your specific contract before you count on either structure."
+        },
+        {
+          "q": "Is a double closing more expensive than an assignment?",
+          "a": "A double closing adds the transactional funding fee, which follows the published schedule, and each transaction can carry its own closing costs. An assignment avoids the funding fee. The tradeoff is that the assignment fee is visible to both sides, which can create friction on larger spreads."
+        },
+        {
+          "q": "Which structure is faster?",
+          "a": "The timelines are similar when the paperwork is complete. An assignment can involve slightly less paperwork because there is one transaction, while a double closing coordinates two files through the same closing office. Funding for a double closing can be ready in as little as 24 hours once the deal details are in."
+        },
+        {
+          "q": "Do I need an LLC for a double closing?",
+          "a": "Wholesalers close in both personal names and entities. If you buy through an LLC, the closing office will want the entity documents for the file. The choice of entity is a question for your own legal and tax advisors."
+        },
+        {
+          "q": "Can I switch from an assignment to a double closing mid-deal?",
+          "a": "That depends on your contract and where the file stands. If the contract restricts assignment or a party objects to the visible fee, a double closing can sometimes still work if the timing allows. Raise it with the closing team as early as you can."
+        }
+      ],
+      "schemaName": "Double Close vs Assignment",
+      "schemaDescription": "An honest comparison of double closing and assignment for Georgia wholesalers: cost, privacy, contract restrictions and when each structure fits."
+    },
+    "feesPage": {
+      "path": "/transactional-funding-fees/",
+      "title": "Transactional Funding Fees: Schedule and Examples",
+      "description": "The full transactional funding fee schedule with worked examples: percentage tiers, the $1,000 minimum, extra days, second closing companies and special paperwork.",
+      "h1": "Transactional Funding Fees",
+      "faqs": [
+        {
+          "q": "When is the funding fee paid?",
+          "a": "The fee typically comes out of the resale proceeds at closing, along with the repayment of the funded amount. You do not pay it out of pocket before the deal closes. Morby Method structures are the exception: those fees are paid upfront by Zelle or wire, as the schedule lists."
+        },
+        {
+          "q": "Is there a minimum fee?",
+          "a": "Yes. On funding up to $500K the fee is 1% with a $1,000 minimum, so smaller deals pay the $1,000 minimum when 1% would be less."
+        },
+        {
+          "q": "What happens if the closing is delayed?",
+          "a": "Transactional funding is priced for a same-day hold. If the resale side moves and the funds stay out longer, the additional day fee of 0.2% per day applies for each extra day, as listed in the schedule."
+        },
+        {
+          "q": "Do the fees change by city or county?",
+          "a": "No. The same published schedule applies everywhere we fund across metro Atlanta, from the City of Atlanta to the surrounding counties."
+        },
+        {
+          "q": "Are there fees beyond the schedule?",
+          "a": "The schedule covers the funding itself, including the additional-day, second-closing-company and special-paperwork lines. Closing costs charged by the closing attorney's office are separate from our fee and vary by file."
+        }
+      ],
+      "schemaName": "Transactional Funding Fees",
+      "schemaDescription": "The full transactional funding fee schedule with worked examples: percentage tiers, the $1,000 minimum, extra days, second closing companies and special paperwork."
+    },
+    "privacy": {
+      "path": "/privacy/",
+      "title": "Privacy Policy",
+      "description": "Privacy policy for Atlanta Wholesale Double Close: what we collect, how we use it, and the choices you have.",
+      "h1": "Privacy Policy",
+      "intro": "How we handle information sent through this website.",
+      "location": "Privacy"
+    },
+    "terms": {
+      "path": "/terms/",
+      "title": "Terms of Service",
+      "description": "Terms of service for the Atlanta Wholesale Double Close website.",
+      "h1": "Terms of Service",
+      "intro": "Information about using this website and submitting a funding request.",
+      "location": "Terms"
+    }
+  }
+}

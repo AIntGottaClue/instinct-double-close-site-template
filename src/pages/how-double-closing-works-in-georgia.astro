@@ -1,0 +1,83 @@
+---
+import { u } from '../lib/utils';
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import FaqAccordion from '../components/FaqAccordion.astro';
+import { brand, domain, site, city } from '../data/city';
+const p = city.pages.howItWorks;
+const faqs = p.faqs;
+
+
+const jsonld = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": p.schemaName,
+    "url": `https://${domain}${p.path}`,
+    "description": p.schemaDescription,
+    "isPartOf": { "@type": "WebSite", "name": brand, "url": `https://${domain}/` }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqs.map((f) => ({ "@type": "Question", "name": f.q, "acceptedAnswer": { "@type": "Answer", "text": f.a } }))
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": `https://${domain}/` },
+      { "@type": "ListItem", "position": 2, "name": "How Double Closing Works in Georgia", "item": `https://${domain}/how-double-closing-works-in-georgia/` }
+    ]
+  }
+];
+---
+<Base title={`${p.title} | ${brand}`} description={p.description} path={p.path} jsonld={jsonld}>
+  <Header base="/" />
+  <main id="main">
+    <section class="guide-hero"><div class="container"><h1 class="guide-hero__title">{p.h1}</h1></div></section>
+
+    <section class="section"><div class="container guide-prose">
+      <p>A double closing is two separate real estate transactions on the same property, usually on the same day. In the first transaction you buy the property from the seller. In the second you resell it to your end buyer, and the proceeds from that resale repay the funding on your purchase.</p>
+      <p>Because you take title in between, your purchase price and your resale price stay on separate closing statements. Your wholesale spread is the difference between the two transactions, not a fee line on a single assignment contract.</p>
+    </div></section>
+
+    <section class="section section--tint"><div class="container guide-prose">
+      <h2 class="section__title">The A-B and B-C transactions</h2>
+      <p>The first transaction is called A-B: the seller (A) sells to you (B) under your purchase contract. The second is B-C: you (B) sell to your end buyer (C) under a separate contract. Each transaction gets its own settlement statement, its own signatures and its own disbursement.</p>
+      <p>The two files are coordinated so the B-C resale funds immediately after the A-B purchase. That sequencing is what lets you complete both sides without bringing your own cash to the table, as long as the funding for the A-B side is in place.</p>
+    </div></section>
+
+    <section class="section"><div class="container guide-prose">
+      <h2 class="section__title">Why {site.state} closings run through attorneys</h2>
+      <p>{site.state} is generally an attorney closing state, so both sides of a double closing typically run through a closing attorney's office rather than an escrow company. One office can usually handle both transactions back to back, and the office your end buyer already uses is often the simplest choice.</p>
+      <p>The closing team coordinates the order of signing, the wires and the disbursements between the two files. Confirm the exact sequence with the closing team on your deal, because each office has its own preferences for how the two files are scheduled.</p>
+    </div></section>
+
+    <section class="section section--tint"><div class="container guide-prose">
+      <h2 class="section__title">The paperwork a file usually needs</h2>
+      <p>The closing office prepares and confirms exactly what your file requires. Across most {site.state} double closings, the paperwork includes:</p>
+      <ul class="guide-list">
+        <li>A signed purchase and sale agreement for each side of the deal</li>
+        <li>Title work on the property, ordered by the closing office</li>
+        <li>A settlement statement for each transaction showing its own price and costs</li>
+        <li>Wire instructions and any payoff figures tied to the property</li>
+        <li>Entity documents if you are buying through an LLC</li>
+        <li>Association, estate or probate documents when the property calls for them</li>
+      </ul>
+      <p>Files with complete paperwork move fastest. Sending everything you have when you submit the deal keeps questions from surfacing at the closing table.</p>
+    </div></section>
+
+    <section class="section"><div class="container guide-prose">
+      <h2 class="section__title">Where transactional funding fits</h2>
+      <p>Transactional funding covers your A-B purchase so the deal does not depend on your own cash. On closing day the funds are wired for your purchase side, your resale closes right after, and the funding plus its fee come out of the resale proceeds. The fee follows the published schedule on the <a href={u("/transactional-funding-fees/")}>transactional funding fees</a> page.</p>
+      <p>Funding can be ready in as little as 24 hours once we have the deal details and the closing office information. If you are still deciding between structures, the <a href={u("/double-close-vs-assignment/")}>double close vs assignment</a> guide compares the two honestly.</p>
+    </div></section>
+
+    <section class="section section--tint" id="faq"><div class="container faq__inner"><h2 class="section__title">Common questions about the process</h2><FaqAccordion items={faqs} /></div></section>
+
+    <section class="final-cta"><div class="final-cta__graphic" aria-hidden="true"></div><div class="container final-cta__inner"><h2 class="final-cta__title">Have a deal ready for funding?</h2><p class="final-cta__text">Submit the deal and we will review the numbers. Funding can be ready in as little as 24 hours once we have the deal details and closing office information.</p><a class="btn btn--accent btn--lg" href={u("/#deal-form")}>Submit Your Deal <span aria-hidden="true">→</span></a></div></section>
+  </main>
+  <Footer />
+</Base>
