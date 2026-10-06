@@ -531,7 +531,9 @@
           "q": "{Guide FAQ}",
           "a": "{Answer}"
         }
-      ]
+      ],
+      "intro": "{Guide meta description}",
+      "location": "How It Works Guide"
     },
     "vsAssignment": {
       "path": "/double-close-vs-assignment/",
@@ -561,7 +563,9 @@
           "q": "{Guide FAQ}",
           "a": "{Answer}"
         }
-      ]
+      ],
+      "intro": "{Guide meta description}",
+      "location": "Comparison Guide"
     },
     "feesPage": {
       "path": "/transactional-funding-fees/",
@@ -591,7 +595,9 @@
           "q": "{Fees FAQ}",
           "a": "{Answer}"
         }
-      ]
+      ],
+      "intro": "{Fees page meta description}",
+      "location": "Fees Guide"
     },
     "privacy": {
       "path": "/privacy/",

@@ -3,6 +3,7 @@ import { u } from '../lib/utils';
 import Base from '../layouts/Base.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import DealForm from '../components/DealForm.astro';
 import FaqAccordion from '../components/FaqAccordion.astro';
 import { brand, domain, site, city } from '../data/city';
 const p = city.pages.vsAssignment;
@@ -36,7 +37,7 @@ const jsonld = [
 <Base title={`${p.title} | ${brand}`} description={p.description} path={p.path} jsonld={jsonld}>
   <Header base="/" />
   <main id="main">
-    <section class="guide-hero"><div class="container"><h1 class="guide-hero__title">{p.h1}</h1></div></section>
+    <section class="legal-hero"><div class="container legal-hero__inner"><div><h1 class="legal-hero__title">{p.h1}</h1><p class="legal-hero__intro">{p.intro}</p></div><DealForm formName={site.formName} cityName={site.ui.legalCityName} location={p.location} /></div></section>
 
     <section class="section"><div class="container guide-prose">
       <p>Assignment and double closing are the two common ways to get paid on a wholesale deal without renovating the property yourself. Neither is always better. The right choice depends on your contract, your spread and the people at the table.</p>
